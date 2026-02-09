@@ -3,7 +3,8 @@ This repository lists few of our resources compiled for the VarDial/AMIYA 2026 S
 
 Please check <a href="https://sites.google.com/view/vardial-2026/shared-tasks">here</a> for more information.
 
-<a href="https://huggingface.co/meta-llama/Llama-3.1-8B-Instruct">Llama</a> and <a href="https://huggingface.co/Qwen/Qwen2.5-7B-Instruct">Qwen </a> models 
+<a href="https://huggingface.co/meta-llama/Llama-3.1-8B-Instruct">Llama</a> and <br>
+<a href="https://huggingface.co/Qwen/Qwen2.5-7B-Instruct">Qwen </a> models 
 fine-tuned using LoRA implementations in LllamaFactory 
 using the data shared in the competition (processing described <a href="">here</a> are available at 
 
