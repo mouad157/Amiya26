@@ -3,7 +3,7 @@ This repository is shared under <a  href="LICENSE">Academic Free License (AFL) v
 and lists the resources compiled by us for the VarDial/AMIYA 2026 Shared task in EACL26.
 
 
-Please check <a href="https://sites.google.com/view/vardial-2026/shared-tasks">here</a> for more information.
+Please check <a href="https://sites.google.com/view/vardial-2026/shared-tasks">here</a> for more information on the competition!
 
 <a href="https://huggingface.co/meta-llama/Llama-3.1-8B-Instruct">Llama</a> and 
 <a href="https://huggingface.co/Qwen/Qwen2.5-7B-Instruct">Qwen </a> models 
