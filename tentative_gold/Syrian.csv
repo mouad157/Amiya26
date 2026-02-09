@@ -1,0 +1,239 @@
+"rid","prompt","label"
+"0","Translate from Syrian Arabic into English. Output only the translation, do NOT output anything else before nor after it.
+ومن الممكن تتولى تركيا مهمة حراسة مقاتلي داعش اللي تم أسرهم واللي رفضت الدول الأوبية حسب البيان إعادتهم.
+Translation:","Turkey may take on the task of guarding the ISIS fighters who were captured and whom European countries refused to take back, according to the statement."
+"1","Translate from Modern Standard Arabic into Syrian Arabic. Output only the translation, do NOT output anything else before nor after it.
+نحن في انتظار حضور أصدقائنا .
+Translation:","نحنا ناطرين يحضروا أصدقائنا."
+"2","Translate from Syrian Arabic into Modern Standard Arabic. Output only the translation, do NOT output anything else before nor after it.
+اي. بس ما يكون تقيل كتير.
+Translation:","نعم. ولكن ليكن خفيفاً قليلاً."
+"3","احكيلي شوي أمتال شامية بتحكي عن مسألة الرضا بالواقع وإنه ما يتكبر في الزواج.","""اللي ما بيقنع بالخبز والزيت، بيقضي عمره بيتصيّد في الضيعة.""  
+""اللي بيشوف حاله عالناس، بيعيش عمره بلا ناس.""  
+""إذا بدك تعيش ملك، أرضى بالقليل وخلّي بالك.""  
+""اللي بيحلم بالقصور، بيموت ببيته مهجور."""
+"4","Translate from Syrian Arabic into Modern Standard Arabic. Output only the translation, do NOT output anything else before nor after it.
+ونتيجة عن هيدا الشي، بدخنوا المغنيين القنب على المسرح، وبيشجع المسرح الجمهور على الانضمام.
+Translation:","ونتيجة لذلك، يدخن المغنون القنب على المسرح، ويشجع المسرح الجمهور على الانضمام."
+"5","Translate from Syrian Arabic into Modern Standard Arabic. Output only the translation, do NOT output anything else before nor after it.
+بدي مايوه قياس صغير، إذا بتريد.
+Translation:","أريد مايوه بمقاس صغير، من فضلك."
+"6","Translate from Syrian Arabic into English. Output only the translation, do NOT output anything else before nor after it.
+خدني عالمستشفى.
+Translation:","Take me to the hospital."
+"7","Translate from Modern Standard Arabic into Syrian Arabic. Output only the translation, do NOT output anything else before nor after it.
+هل هناك مضيفات يتحدثن اليابانية ؟
+Translation:","في مضيفات بيحكوا ياباني؟"
+"8","Translate from English into Syrian Arabic. Output only the translation, do NOT output anything else before nor after it.
+At which station should I get off to go to the Empire State Building?
+Translation:","عند أي محطة لازم أنزل لروح لمبنى الإمباير ستيت؟"
+"9","اكتوب رد مبدع بحتوي ع هلجملة بشكل أساسي: ""أديش بدي وقت لأطلب؟""","""قديش لازم استنى قبل ما اطلب؟"""
+"10","Translate from Syrian Arabic into English. Output only the translation, do NOT output anything else before nor after it.
+هاد بيتضمن الضريبة؟
+Translation:","Does this include the tax?"
+"11","Translate from Syrian Arabic into English. Output only the translation, do NOT output anything else before nor after it.
+دلني على مكان ظريف من هالنهر، إذا سمحت.
+Translation:","Show me a nice spot by the river, please."
+"12","Translate from Modern Standard Arabic into Syrian Arabic. Output only the translation, do NOT output anything else before nor after it.
+أضاف قائلاً، ""لدينا الآن فئران تبلغ من العمر 4 أشهر التي كانت تعاني في السابق من مرض السكري، ولكنها لم تعد تعاني منه الآن.
+Translation:","قال: ""عنا هلق فئران عمرها 4 شهور كانت قبل تعاني من السكري، بس هلق ما عاد تعاني منه""."
+"13","""مقعد لغير المدخنين، رجاءً."" بدي تكتبلي سؤال امتحان متوقع بشكل مقالة حسب هالجملة","عنوان المقالة: أهمية تخصيص مقاعد لغير المدخنين في الأماكن العامة
+
+مقدمة: 
+تشكل مشكلة التدخين إحدى أهم التحديات الصحية التي تواجه المجتمع في العصر الحديث. ومع تزايد الوعي بمخاطر التدخين على الصحة العامة، ظهرت الحاجة الملحة لتخصيص مقاعد وأماكن خاصة لغير المدخنين في الأماكن العامة.
+
+العرض:
+1. التأثيرات السلبية للتدخين على الصحة: تلقي الضوء على الأمراض والاضطرابات الصحية المرتبطة بالتدخين وكيف أن تخصيص مقاعد لغير المدخنين يمكن أن يساهم في حماية الأفراد من هذه المخاطر.
+2. تعزيز الراحة والرفاهية الشخصية: مناقشة كيف أن تخصيص مناطق لغير المدخنين يساهم في تحسين تجربة الأفراد في الأماكن العامة ويعزز من شعورهم بالراحة والرفاهية.
+3. السياسات والتشريعات المتعلقة بالتدخين: استعراض بعض القوانين والسياسات التي تم تبنيها في الدول المختلفة للحد من التدخين ودعم حقوق غير المدخنين.
+4. التجارب العملية والدراسات: عرض بعض الدراسات والتجارب التي تناولت فعالية تخصيص مقاعد لغير المدخنين وكيف ساهم ذلك في تحسين الصحة العامة وزيادة رضا المجتمع.
+
+الخاتمة:
+التأكيد على أهمية استمرارية الجهود لتعزيز حقوق غير المدخنين وتوفير بيئات صحية وآمنة في الأماكن العامة. الدعوة إلى زيادة التوعية حول أضرار التدخين وتشجيع السياسات التي تدعم حقوق الأفراد في العيش في بيئة نظيفة."
+"14","Translate from Modern Standard Arabic into Syrian Arabic. Output only the translation, do NOT output anything else before nor after it.
+جرت العادة على تقديم وكلاء السفر باقات تشمل الإفطار، وترتيبات التنقل من وإلى المطار أو حتى باقات مجمّعة تشمل الطيران والفنادق.
+Translation:","متعودين وكلاء السفر يقدموا باقات تشمل الفطور، وترتيبات التنقل من وإلى المطار أو حتى باقات مجمّعة تشمل الطيران والفنادق."
+"15","Translate from Syrian Arabic into English. Output only the translation, do NOT output anything else before nor after it.
+هيدا بيعني إنه فيك تزور المدينة التاريخية لبضعة أيام كاملة والرجعة والنوم على متن السفينة بالليل.
+Translation:","This means you can visit the historic city for a few full days and return and sleep on the ship at night."
+"16","Translate from Syrian Arabic into English. Output only the translation, do NOT output anything else before nor after it.
+بدي أوتيل أرخص.
+Translation:","I want a cheaper hotel."
+"17","Translate from Syrian Arabic into Modern Standard Arabic. Output only the translation, do NOT output anything else before nor after it.
+هيدا مش صحيح، على الرغم من وجود شي مكتوب على ضهر الإعاتن، بس مش خريطة كنز.
+Translation:","هذا ليس صحيحًا، على الرغم من وجود شيء مكتوب على ظهر الإعتان، لكنه ليس خريطة كنز."
+"18","When training my neural network, I can get a loss below 4.5 at 10,000 iterations. The latest attempt includes trying batch sizes of 512, 1024, and 2048 while keeping the block size  at a 4. All of this is done in the context of nanoGPT. It's worth noting that when I ran a batch size of 12 and a block size of 1024, I managed to get the loss down to 4.32 after 10,000 iterations. In your opinion and experience, what steps can I take in order to reduce the loss? Please keep in mind that my video card has 12GB of RAM and the vocabulary is made up of 20,000 words. Each sentence is made up of exactly four tokens. Do you have any suggestions in Syrian Arabic how I could improve the neural network, please?","أكيد! فيك تجرب تزيد على عدد الطبقات أو عدد العقد داخل الطبقات (مثلاً الطبقات المخفية). كمان ممكن تحاول تغير معدل التعلم (Learning Rate) لتشوف إذا بيأثر على الأداء. جرب استخدم تقنيات تحسين زي Adam أو RMSprop بدل من SGD إذا ما كنت عم تستخدمهم. ومن ناحية البيانات، إذا فيك تجمع بيانات إضافية أو تعمل Augmentation، هالشي ممكن يساعد كتير. وأخيراً، جرب تخفف من التعقيدات اللي مداخلتك عم تسببها، زي تغيير حجم البيانات اللي عم تدخلها للشبكة أو تبسيط النموذج."
+"19","Give me boilerplate python code for flask app with users and explain in Syrian Arabic.","```python
+from flask import Flask, render_template, redirect, url_for, request
+from flask_sqlalchemy import SQLAlchemy
+from werkzeug.security import generate_password_hash, check_password_hash
+from flask_login import LoginManager, UserMixin, login_user, login_required, logout_user, current_user
+
+app = Flask(__name__)
+app.config['SECRET_KEY'] = 'your_secret_key'
+app.config['SQLALCHEMY_DATABASE_URI'] = 'sqlite:///users.db'
+db = SQLAlchemy(app)
+login_manager = LoginManager()
+login_manager.login_view = 'login'
+login_manager.init_app(app)
+
+class User(UserMixin, db.Model):
+    id = db.Column(db.Integer, primary_key=True)
+    username = db.Column(db.String(150), unique=True, nullable=False)
+    password = db.Column(db.String(150), nullable=False)
+
+@login_manager.user_loader
+def load_user(user_id):
+    return User.query.get(int(user_id))
+
+@app.route('/login', methods=['GET', 'POST'])
+def login():
+    if request.method == 'POST':
+        username = request.form.get('username')
+        password = request.form.get('password')
+        user = User.query.filter_by(username=username).first()
+        if user and check_password_hash(user.password, password):
+            login_user(user)
+            return redirect(url_for('dashboard'))
+    return render_template('login.html')
+
+@app.route('/signup', methods=['GET', 'POST'])
+def signup():
+    if request.method == 'POST':
+        username = request.form.get('username')
+        password = request.form.get('password')
+        hashed_password = generate_password_hash(password, method='sha256')
+        new_user = User(username=username, password=hashed_password)
+        db.session.add(new_user)
+        db.session.commit()
+        return redirect(url_for('login'))
+    return render_template('signup.html')
+
+@app.route('/dashboard')
+@login_required
+def dashboard():
+    return f'Hello, {current_user.username}!'
+
+@app.route('/logout')
+@login_required
+def logout():
+    logout_user()
+    return redirect(url_for('login'))
+
+if __name__ == '__main__':
+    db.create_all()
+    app.run(debug=True)
+```
+"
+"20","Translate from Modern Standard Arabic into Syrian Arabic. Output only the translation, do NOT output anything else before nor after it.
+لا زالت غالية جدا . هل من الممكن أن آخذها بثلاثة دولارات ؟
+Translation:","لسا غالية كتير. ممكن آخدها بثلاثة دولار؟"
+"21","Translate from Syrian Arabic into English. Output only the translation, do NOT output anything else before nor after it.
+وتم نقل السيارة نفسها من مكان الحادث بحوالي الساعة 12:00 بتوقيت جرينتش من اليوم نفسه.
+Translation:","The car itself was moved from the scene of the accident at around 12:00 GMT on the same day."
+"22","شو الآثار يلي بتترتب على هالشي, إذا حدا حكالك هيك؟: ""في سينما قريبة من هون؟""","إذا حدا سألك ""في سينما قريبة من هون؟""، ممكن يكون بدو يعرف إذا في مكان قريب لمشاهدة الأفلام. لازم ترد عليه بحسب معرفتك، إذا في سينما قريبة، دله على المكان، وإذا ما في، قله إنه ما في سينما قريبة من هون. إذا كان السائل زائر أو جديد بالمنطقة، ممكن كمان تعطيه فكرة عن وسائل النقل المتوفرة للوصول لأقرب سينما."
+"23","شو هو اصل مدينة حمص؟","مدينة حمص تعد من أقدم المدن في سوريا، ويعود تاريخها إلى العصور القديمة حيث كانت تُعرف باسم ""إيميسا"" خلال الفترة الرومانية. كانت حمص مركزًا حضاريًا وتجاريًا مهمًا، وقد مرّت عليها العديد من الحضارات مثل الرومانية والبيزنطية والإسلامية. تتميز بموقعها الاستراتيجي على نهر العاصي، مما جعلها نقطة اتصال بين مختلف مناطق سوريا."
+"24","رد على نفس النسق: ""ممكن شوف السيارة؟""","أكيد، تفضل شوفها."
+"25","اكتوب قصة بتبلش بهالسطر: ""صعب علينا نحكي انجليزي بطلاقة.""","صعب علينا نحكي انجليزي بطلاقة. كنا مجموعة شباب وصبايا من ضيعة صغيرة بالشمال، قاعدين تحت شجرة الزيتون الكبيرة بنحكي عن أحلامنا وآمالنا. كل واحد فينا عنده هدف، بس كلنا كنا متفقين إنه لازم نتعلم الإنجليزي لنحقق هالأهداف. كان فينا محمد، اللي دايماً بيحلم يسافر لأمريكا ويكمل دراسته هناك، وسارة اللي بدها تشتغل بشركة عالمية، وأنا اللي بحلم أفتح مكتب سياحة وأعمل جولات للأجانب. 
+
+بس كان في عائق كبير قدامنا؛ اللغة الإنجليزية اللي كانت مثل جدار كبير واقف بيننا وبين أحلامنا. قررنا نعمل خطتنا الخاصة، كل يوم بعد المدرسة، نجتمع ونتعلم كلمتين أو ثلاث كلمات جديدة، نسمع أغاني ونحاول نفهمها، ونحضر أفلام بدون ترجمة. شوي شوي، صار عنا ثقة أكبر بأنفسنا. 
+
+بعد شهور من الجهد والتعب، صار عنا القدرة نحكي جمل بسيطة، وصار كل واحد فينا يلاحظ تطور ملحوظ بقدرته اللغوية. كان يوم مميز لما قررنا نحكي مع أستاذ الإنجليزي تبعنا، وصرنا نحكي معه شوي شوي بدون ما نخجل. يمكن ما وصلنا للطلاقة اللي بنحلم فيها، بس صار فينا نقول إنه قدرنا نحقق جزء من اللي بدنا ياه، وصار الحلم أقرب وأوضح أمامنا."
+"26","""في تقليد لتقصية ليلة عيد الفصح واعي ببعض المحلات المكشوفة لشوفة شروق الشمس."" رد بطريقة إبداعية بيتضمن هالجملة كعنصر أساسي","في ليلة عيد الفصح، اجتمعنا مع الأصحاب في أحد المحلات المكشوفة، حيث كانت الأجواء مليئة بالضحك والفرح. ومع اقتراب الفجر، جلسنا نترقب شروق الشمس، وكأننا في تقليد لتقصية ليلة عيد الفصح واعي ببعض المحلات المكشوفة لشوفة شروق الشمس. مع أول خيوط الضوء، أشرقت أرواحنا بالأمل والتجدد، وتمنينا أن تكون هذه الليلة بداية لمرحلة جديدة مليئة بالسلام والمحبة."
+"27","Translate from Syrian Arabic into Modern Standard Arabic. Output only the translation, do NOT output anything else before nor after it.
+لازم يكون موظف خدمة التلفون قادر على تقديم معلومات زيادة عن الاشتراك بهيدي الخدمة.
+Translation:","يجب أن يكون موظف خدمة الهاتف قادرًا على تقديم معلومات إضافية عن الاشتراك في هذه الخدمة."
+"28","رد على النسق يلي ببلش هيك: ""أقسم مارتيلي مبارح اليمين بمجلس انتخابي مؤقت جديد من 9 أعضاء.""","والله يا زلمة، الوضع السياسي عنا بهالأيام معقد كتير، وكل يوم في تطورات جديدة. هالمجلس الانتخابي المؤقت يمكن يكون له دور مهم بالفترة الجاية، خلينا نشوف شو رح يصير ونتأمل يكون في خطوات إيجابية لصالح الشعب."
+"29","Translate from English into Syrian Arabic. Output only the translation, do NOT output anything else before nor after it.
+Thank you, that's enough.
+Translation:","شكراً، هاد كفاية."
+"30","Search for State Specific Regulations for Workers Compensation on the Internet.
+
+Find the Top Three Articles On the Topic, and use the information in those articles to compose a new article following the most important parts from all three in Syrian Arabic.
+
+Cite at least five sources in in-text citations in the article, and provide the url addresses for said citations in a separate section at the bottom of the article.
+
+Also search for relevant seo keywords about state-specific workers' comp regulations, and use those keywords throughout the article.
+
+Make the article at least 1500 words.
+
+Add in a call to action to get workers' comp insurance with deerfield advisors in the final paragraph.
+
+Add in specific references to unique workers compensation legislation in various states throughout the article.","آسف، ما بقدر أعمل بحث على الإنترنت أو أجيب على طلبات معقدة مثل كتابة مقالات طويلة مع مصادر محددة. بس فيني أعطيك نصائح عامة حول كيف تلاقي المعلومات اللي بدك ياها.
+
+للبحث عن تشريعات تعويضات العمال المحددة حسب الولاية:
+1. ابحث عن مواقع حكومية رسمية للولايات اللي مهتم فيها.
+2. دور على مواقع موثوقة متخصصة في شؤون العمال وتعويضاتهم مثل Nolo أو FindLaw.
+
+لتحديد مقالات مهمة:
+- دور على مقالات في مواقع قانونية أو اقتصادية موثوقة.
+- تأكد من تحديث المقالات لتتضمن أحدث التشريعات.
+
+إذا كنت بحاجة للمساعدة في البحث أو الكتابة، يفضل استشارة خبير قانوني أو مستشار تأمين للحصول على المعلومات الأكثر دقة.
+
+لترويج تأمين تعويضات العمال مع Deerfield Advisors، يمكنك الاتصال بهم مباشرة أو زيارة موقعهم الإلكتروني للحصول على تفاصيل حول الخطط المتاحة."
+"31","Translate from Modern Standard Arabic into Syrian Arabic. Output only the translation, do NOT output anything else before nor after it.
+وضربَ الزلزال ماريانا في الساعة ٠٧:١٩ صباحاً بالتوقيت المحلي (الجمعة ٠٩:١٩ مساءً بتوقيت جرينتش).
+Translation:","ضرب الزلزال ماريانا الساعة ٧:١٩ الصبح بالتوقيت المحلي (الجمعة ٩:١٩ المساء بتوقيت جرينتش)."
+"32","Translate from Syrian Arabic into Modern Standard Arabic. Output only the translation, do NOT output anything else before nor after it.
+بدك تدفع الفاتورة هلأ؟
+Translation:","هل تريد دفع الفاتورة الآن؟"
+"33","Translate from Syrian Arabic into English. Output only the translation, do NOT output anything else before nor after it.
+في جولة بعد الضهر؟
+Translation:","Is there a tour in the afternoon?"
+"34","Translate from Syrian Arabic into Modern Standard Arabic. Output only the translation, do NOT output anything else before nor after it.
+تنتشر الجادات الواسعة والمباني يلّي واجهاتها إزاز ومراكز التسوق الحديثة مع الأسقف التقليدية يلّي عندها قرميد الأحمر وسوق القرن التمنتعش والمساجد والكنايس القديمة على الرغم من أن أجواء المدينة أقرب لأوروبا المتوسطية أكتر من تركيا التقليدية.
+Translation:","تنتشر الشوارع الواسعة والمباني التي واجهاتها زجاج ومراكز التسوق الحديثة مع الأسقف التقليدية التي لديها القرميد الأحمر وسوق القرن الثامن عشر والمساجد والكنائس القديمة على الرغم من أن أجواء المدينة أقرب لأوروبا المتوسطية أكثر من تركيا التقليدية."
+"35","Translate from Modern Standard Arabic into Syrian Arabic. Output only the translation, do NOT output anything else before nor after it.
+أظن أنه بديع المنظر .
+Translation:","بظن إنه بياخد العقل."
+"36","Translate from Modern Standard Arabic into Syrian Arabic. Output only the translation, do NOT output anything else before nor after it.
+كان يفترض أن تسافر على الطائرة رقم ثمانية اثنان صفر التي أقلعت منذ خمس عشرة دقيقة . حسنا . بإمكاني تنظيم رحلة أخرى .
+Translation:","كان مفروض تسافر عالطيارة رقم تمنية اتنين صفر اللي أقلعت من خمسطعش دقيقة. طيب، فيني نظم رحلة تانية."
+"37","""شو رأيك بالتحرش الجنسي بمكان العمل؟"" رد على نفس النسق","التحرش الجنسي بمكان العمل شيء مرفوض تمامًا ولازم يكون في قوانين صارمة لمكافحته وحماية الموظفين."
+"38","Translate from English into Syrian Arabic. Output only the translation, do NOT output anything else before nor after it.
+How much are fresh mushrooms?
+Translation:","قدّيش حق الفطر الطازج؟"
+"39","Translate from English into Syrian Arabic. Output only the translation, do NOT output anything else before nor after it.
+The budget is under one thousand dollars.
+Translation:","الميزانية تحت الألف دولار."
+"40","بشو بتشتهر معلولا ؟ ","معلولا بتشتهر بإنها واحدة من القرى القليلة اللي لسا بيتكلموا فيها اللغة الآرامية القديمة، وبتشتهر كمان بمعالمها التاريخية والدينية مثل الأديرة والكنائس اللي موجودة فيها."
+"41","Translate from Modern Standard Arabic into Syrian Arabic. Output only the translation, do NOT output anything else before nor after it.
+يمكن أن يكون السفر بالطائرة تجربة مرعبة للأشخاص من جميع الأعمار والخلفيات، خاصةً إذا لم يسافروا من قبل أو تعرضوا لحادثٍ مؤلمٍ.
+Translation:","ممكن يكون السفر بالطيارة تجربة مخيفة للأشخاص من كل الأعمار والخلفيات، خصوصي إذا ما سافروا قبل أو صار معهم حادث مؤلم."
+"42","Translate from Syrian Arabic into Modern Standard Arabic. Output only the translation, do NOT output anything else before nor after it.
+بالنسبة للأستراليين، ففكرة القهوة ""فلات وايت"" هي أجنبية. الأسود القصير هو ""إسبريسو""، بيجي الكابتشينو مليان كريمة (ومش الرغوة)، والشاي يُقدم بدون حليب.
+Translation:","بالنسبة للأستراليين، فإن فكرة القهوة ""فلات وايت"" هي أجنبية. الأسود القصير هو ""إسبريسو""، يأتي الكابتشينو مليئًا بالكريمة (وليس الرغوة)، والشاي يُقدّم بدون حليب."
+"43","Translate from Modern Standard Arabic into Syrian Arabic. Output only the translation, do NOT output anything else before nor after it.
+مقعد ممنوع به التدخين ، من فضلك .
+Translation:","كرسي ممنوع التدخين فيه، لو سمحت."
+"44","Translate from English into Syrian Arabic. Output only the translation, do NOT output anything else before nor after it.
+I'd like to check my valuables.
+Translation:","بدي أتفقد أغراضي القيمة."
+"45","Translate from Syrian Arabic into English. Output only the translation, do NOT output anything else before nor after it.
+أديش الأجرة؟ ممكن تكتبلي الأجرة على ورقة؟
+Translation:","How much is the fare? Can you write the fare on a piece of paper for me?"
+"46","Translate this in Syrian Arabic and then solve it. Using pandas-ta, I have forex data and an 'EMA50' column. I want to detect where the close price crosses over the 'EMA50' value.","بإمكانك استخدام الكود التالي للكشف عن الأماكن التي يتجاوز فيها سعر الإغلاق قيمة 'EMA50' باستخدام مكتبة pandas-ta:
+
+```python
+import pandas as pd
+import pandas_ta as ta
+
+# افترض أن لديك بيانات الفوركس مع عمود 'Close' و 'EMA50'
+# forex_data هو DataFrame الخاص بك
+
+# حساب EMA50 إذا لم يكن محسوباً مسبقاً
+# forex_data['EMA50'] = ta.ema(forex_data['Close'], length=50)
+
+# الكشف عن الأماكن التي يتجاوز فيها سعر الإغلاق EMA50
+cross_over = forex_data['Close'] > forex_data['EMA50']
+cross_over_points = cross_over[cross_over].index
+
+print(""الأماكن التي يتجاوز فيها سعر الإغلاق قيمة EMA50:"")
+print(cross_over_points)
+```
+
+هذا الكود سيساعدك على تحديد الأماكن في البيانات حيث يتجاوز فيها سعر الإغلاق قيمة 'EMA50'."
+"47","Translate from Modern Standard Arabic into Syrian Arabic. Output only the translation, do NOT output anything else before nor after it.
+هل السيدات يقبلن هذا ؟
+Translation:","النسوان بيرضوا بهالشي؟"

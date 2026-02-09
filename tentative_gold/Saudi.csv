@@ -1,0 +1,199 @@
+"rid","prompt","label"
+"0","Translate from Saudi Arabic into English. Output only the translation, do NOT output anything else before nor after it.
+كل الشواطئ رملية تقريباً تسمح بسباحة آمنة، ومعظمها تظلها أشجار البوتوكوا.
+Translation:","Almost all the beaches are sandy, allowing for safe swimming, and most of them are shaded by Botokwa trees."
+"1","I need to knw as much as possible of currents along the surface of a sphere, explain in Saudi Arabic, in physics, to implement hairy ball theorem comprehensively for the case of 1 vanishing vector filed point called hairy ball hole.","الثابت في نظرية الكرة المشعرة هو أنه لا يمكن تمشيط كرة ملساء تماماً بحيث لا توجد أي نقاط انقطاع في الشعيرات. بمعنى آخر، إذا كنت تحاول إنشاء مجال متجهي على سطح كرة بحيث تكون جميع الشعيرات في نفس الاتجاه، فسوف تجد دائماً نقطة واحدة على الأقل حيث يجب أن تكون الشعيرة عمودية أو ""منعدمة"".
+
+بالنسبة للتيارات على سطح الكرة، يمكننا التفكير فيها كخطوط تدفق للمجال المتجهي. إذا حاولت تطبيق نظرية الكرة المشعرة على التيارات على سطح الكرة، يجب أن تتوقع وجود نقطة واحدة على الأقل حيث تتلاشى التيارات أو تتحول إلى نقطة دوامة، وهذا ما يسمى ""ثقب الكرة المشعرة"". هذه النقطة تكون حيث يكون المجال المتجهي منعدمًا.
+
+لفهم هذا بشكل أعمق، نحتاج لتصور كيف يمكن أن يكون المجال المتجهي موزعاً على سطح الكرة، وكيف يمكن أن يُظهر هذا المجال الخصائص المميزة لنظرية الكرة المشعرة، مثل التعقيد في توزيع التيارات وعدم القدرة على إنشاء مجال متجهي سلس تماماً بدون نقاط انقطاع."
+"2","Translate from Saudi Arabic into Modern Standard Arabic. Output only the translation, do NOT output anything else before nor after it.
+وقد أشارَ أوليفر ساكس في ورقته إلى أنّ خطاب الرّئيس يشير إلى أنّ الأشخاص غير القادرين على فهم الكلام بسبب تلفِ الدّماغ يكونون قادرين على تقييم الصّدق بدقةٍ.
+Translation:","أشار أوليفر ساكس في ورقته إلى أن خطاب الرئيس يشير إلى أن الأشخاص غير القادرين على فهم الكلام بسبب تلف الدماغ يكونون قادرين على تقييم الصدق بدقة."
+"3","Translate from English into Saudi Arabic. Output only the translation, do NOT output anything else before nor after it.
+The budget is under one thousand dollars.
+Translation:","الميزانية تحت ألف دولار."
+"4","Translate from Saudi Arabic into English. Output only the translation, do NOT output anything else before nor after it.
+يمكن أن تمثل الترع المائية الداخلية فكرة جيدة لإقامة عطلة حولها.
+Translation:","Internal water canals can represent a good idea for a holiday setting around them."
+"5","اعد كتابة هذا باسلوبك الخاص، لكن مع انك تحافظ على المعنى الأساسي: ""في بعض المناطق يكفي غليان الماء لمدة دقيقة، وفي مناطق أخرى تحتاج إلى غليها لعدة دقائق.""","في بعض الأماكن يكون غلي الماء لدقيقة واحدة كافيًا، بينما في أماكن أخرى يتطلب الأمر غليه لعدة دقائق."
+"6","Translate from Saudi Arabic into English. Output only the translation, do NOT output anything else before nor after it.
+إنه المجلس الانتخابي المؤقت الخامس لمارتيلي خلال أربع سنوات.
+Translation:","It is Martelly's fifth interim electoral council in four years."
+"7","Translate from Saudi Arabic into Modern Standard Arabic. Output only the translation, do NOT output anything else before nor after it.
+قال إنه صنع جرس باب يعمل بتقنية واي فاي.
+Translation:","قال إنه صنع جرس باب يعمل بتقنية الواي فاي."
+"8","Translate from Modern Standard Arabic into Saudi Arabic. Output only the translation, do NOT output anything else before nor after it.
+أسف ، هذا المكان محجوز بالفعل .
+Translation:","آسف، هالمكان محجوز من قبل."
+"9","اكتب قصة تبدأ بهالجملة: ""ايه. الحجز لستة ليالي، لو سمحت. يبجأ من ثلاثة و عشرين يوليو.""","ايه. الحجز لستة ليالي، لو سمحت. يبجأ من ثلاثة و عشرين يوليو. في ذاك اليوم الحار من الصيف، كانت فاطمة واقفة عند مكتب الاستقبال في الفندق الفخم المطل على البحر الأحمر في جدة. كانت قد قررت أخيرًا أخذ إجازة تستحقها بعد شهور من العمل المتواصل في المكتب. بملامحها الهادئة وابتسامتها العريضة، سلمت بطاقة الهوية للموظف الذي بدأ في معالجة إجراءات الدخول.
+
+عندما انتهى الموظف من الإجراءات، سلمها مفتاح الغرفة قائلاً بابتسامة: ""أتمنى لك إقامة ممتعة. إذا احتجتِ لأي شيء، لا تترددي في الاتصال بنا."" شكرت فاطمة الموظف وذهبت إلى المصعد. كانت تفكر في الأيام القادمة وكيف ستقضيها بين الاسترخاء على الشاطئ وزيارة المعالم السياحية في المدينة.
+
+في اليوم الأول، استيقظت مبكرًا وقررت التوجه إلى المطعم لتناول الإفطار. كانت الأجواء في المطعم هادئة، والموسيقى الخفيفة تعزف في الخلفية. جلست بجانب النافذة المطلة على البحر، وهي تتذوق القهوة العربية الطازجة وفطورًا شهيًا.
+
+بعد الإفطار، قررت الذهاب في جولة بحرية لاستكشاف الجزر القريبة. كانت المياه زرقاء صافية، والسماء مشرقة بلا غيوم. شعرت فاطمة بالانتعاش وهي تتأمل في جمال الطبيعة من حولها، وتذكرت كم كانت بحاجة إلى هذه اللحظات لتجديد طاقتها.
+
+استمرت أيامها في الفندق بين الاسترخاء والمغامرات الصغيرة، وكانت تشعر بالامتنان على كل لحظة قضتها في هذا المكان الرائع. في نهاية إقامتها، كانت فاطمة جاهزة للعودة إلى حياتها اليومية، لكنها محملة بذكريات جميلة وأمل في العودة مرة أخرى في المستقبل."
+"10","Translate from Saudi Arabic into English. Output only the translation, do NOT output anything else before nor after it.
+انا على الطريف السريع واحد بالقرب من خليج باي.
+Translation:","I'm on Highway 1 near Bay Gulf."
+"11","Translate from Modern Standard Arabic into Saudi Arabic. Output only the translation, do NOT output anything else before nor after it.
+تلقى بوترو العلاج في كتفه في هذه المرحلة لكنه تمكن من العودة إلى المباراة.
+Translation:","بوترو علج كتفه في هالمرحلة لكنه قدر يرجع للمباراة."
+"12","ايش هي عاصمة المملكة العربية السعودية؟","الرياض"
+"13","Translate from Saudi Arabic into English. Output only the translation, do NOT output anything else before nor after it.
+ملابسه دائما على غير الموضة.
+Translation:","His clothes are always out of fashion."
+"14","Translate from Saudi Arabic into English. Output only the translation, do NOT output anything else before nor after it.
+الى هذا المكان، لو سمحت.
+Translation:","To this place, please."
+"15","Translate from Saudi Arabic into Modern Standard Arabic. Output only the translation, do NOT output anything else before nor after it.
+حقق روبن أوثابا أعلى نتيجة في الجولات، 70 ركضةً في 41 كرة فقط بتسجيل 11 من الأربع واثنين من الـستات.
+Translation:","حقق روبن أوثابا أعلى نتيجة في الجولات، 70 ركضة في 41 كرة فقط بتسجيل 11 أربعيات واثنتين من الستات."
+"16","Translate from English into Saudi Arabic. Output only the translation, do NOT output anything else before nor after it.
+How long will it take to order?
+Translation:","كم بياخذ وقت الطلب؟"
+"17","Translate from Saudi Arabic into English. Output only the translation, do NOT output anything else before nor after it.
+تعيش هنا؟
+Translation:","Do you live here?"
+"18","Translate from Saudi Arabic into English. Output only the translation, do NOT output anything else before nor after it.
+الكاري هو عبارة عن طبق من الأعشاب والبهار مع اللحوم أو الخضار.
+Translation:","Curry is a dish made of herbs and spices with meat or vegetables."
+"19","Develop a Python program snippet to Determine High Sneezing and coughing etiquette: Preventing Spread of Germs for Engineer for Experts. Incorporate if/else or switch/case statements to handle various cases related to the Bias. Dry-run, ensure your control flow logic is clear and well-commented, then explain in Saudi Arabic.","```python
+def prevent_spread_of_germs(sneezing_severity, coughing_severity):
+    # Define thresholds for high severity
+    high_severity_threshold = 7
+
+    # Check sneezing severity
+    if sneezing_severity >= high_severity_threshold:
+        sneezing_action = ""Use a tissue or elbow to cover your sneeze.""
+    else:
+        sneezing_action = ""Regular hygiene is sufficient.""
+
+    # Check coughing severity
+    if coughing_severity >= high_severity_threshold:
+        coughing_action = ""Cough into your elbow and avoid close contact.""
+    else:
+        coughing_action = ""Maintain normal precautions.""
+
+    # Return actions based on severity
+    return sneezing_action, coughing_action
+
+# Example dry-run with sample data
+sneezing_severity = 8  # Example severity level for sneezing
+coughing_severity = 5  # Example severity level for coughing
+
+actions = prevent_spread_of_germs(sneezing_severity, coughing_severity)
+print(""Sneezing Action:"", actions[0])
+print(""Coughing Action:"", actions[1])
+```
+
+في هذا البرنامج، قمنا بتحديد شدة العطس والسعال باستخدام متغيرات `sneezing_severity` و `coughing_severity`. استخدمنا عتبة لتحديد متى يجب اتخاذ إجراءات إضافية للحد من انتشار الجراثيم. إذا كانت الشدة تساوي أو تتجاوز العتبة، يتم اتخاذ إجراءات محددة مثل استخدام منديل أو العطس في الكوع. وإلا، فإن الاحتياطات العادية كافية. يتم التحقق من كل حالة باستخدام عبارات if/else لضمان اتخاذ القرارات المناسبة."
+"20","Translate from Modern Standard Arabic into Saudi Arabic. Output only the translation, do NOT output anything else before nor after it.
+هاك عشرين دولارا واعطني فكة دولارين من فضلك .
+Translation:","خذ عشرين دولار وعطني فكة دولارين لو سمحت."
+"21","Translate from Saudi Arabic into Modern Standard Arabic. Output only the translation, do NOT output anything else before nor after it.
+سَيسْمح ذلك للاعبين بالتحكم في الأفعال والحركات في ألعاب الفيديو عن طريق التلويح بالجهاز في الهواء.
+Translation:","سيسمح ذلك للاعبين بالتحكم في الأفعال والحركات في ألعاب الفيديو عن طريق التلويح بالجهاز في الهواء."
+"22","""فيه سينما قريبة؟"" اعد كتابة هذا باسلوبك الخاص، لكن مع انك تحافظ على المعنى الأساسي","""هل توجد دار عرض قريبة؟"""
+"23","""رحلتنا الهايكنج بتكون فلة مرة."" اعد كتابة هذا باسلوبك الخاص، لكن مع انك تحافظ على المعنى الأساسي","""رحلتنا للتنزه في الجبال بتكون ممتعة جداً."""
+"24","Translate from Modern Standard Arabic into Saudi Arabic. Output only the translation, do NOT output anything else before nor after it.
+مائة وخمسة وثلاثون ين للدولار الواحد .
+Translation:","مية وخمسة وثلاثين ين للدولار الواحد."
+"25","اكتب سؤال ممكن ينحط في اختبار، على شكل قطعة نصية بناءً على ""بترسلها اكيد، صح؟""","اقرأ الجملة التالية جيدًا ثم أجب عن السؤالين التاليين: ""بترسلها اكيد، صح؟""
+
+1. ما هو الغرض من استخدام كلمة ""اكيد"" في الجملة؟
+أ. للتأكيد على الفعل
+ب. للسؤال عن النية
+ج. للرفض
+د. للترحيب
+
+2. ماذا يمكن أن نفهم من استخدام كلمة ""صح؟"" في نهاية الجملة؟
+أ. الاستفهام عن الصحة
+ب. التأكيد على الفعل
+ج. التعبير عن الغضب
+د. طلب التأكيد أو الموافقة"
+"26","Translate from Saudi Arabic into Modern Standard Arabic. Output only the translation, do NOT output anything else before nor after it.
+احتاج هدية لذكرى سنوية.
+Translation:","أحتاج إلى هدية لذكرى سنوية."
+"27","Translate from English into Saudi Arabic. Output only the translation, do NOT output anything else before nor after it.
+Eventually, wooden wheels were replaced by iron wheels. In 1767, the first full-iron rails were introduced.
+Translation:","في النهاية، تم استبدال العجلات الخشبية بعجلات حديدية. في عام 1767، تم تقديم أول قضبان حديدية بالكامل."
+"28","""اقدر اعين مضارب؟"" وشي الشريحة اللي جملة مثل هذي تكون موجهة لها؟ فسر اجابتك","العبارة ""اقدر اعين مضارب؟"" غالبًا ما تكون موجهة للأشخاص المهتمين بالاستثمار أو الذين لديهم رأس مال ويرغبون في دخول سوق الأوراق المالية أو تداول العملات. الشريحة المقصودة هنا قد تشمل الأفراد الأثرياء أو المستثمرين الجدد أو حتى الشركات التي تبحث عن توظيف مضاربين محترفين لإدارة استثماراتها."
+"29","Can you generate a flowchart in Saudi Arabic for the following code : switch (currentState) {
+   case IDLE:
+
+       break;
+    case START:
+
+       break;
+           
+    case CHANGE_SPEED:
+
+       break;           
+           
+    case STOP:
+
+       break;
+}","عذرًا، لا أستطيع إنشاء مخططات انسيابية مباشرة. لكن بإمكاني مساعدتك في وصف المخطط باللغة السعودية:
+
+1. **البدء** 
+   - قم بتحديد `currentState` (الحالة الحالية).
+   
+2. **التحقق من الحالة**
+   - **إذا كانت الحالة `IDLE` (خمول):**
+     - تنفيذ الإجراءات المطلوبة (قد تكون لا شيء، كما هو موضح في الكود).
+   - **إذا كانت الحالة `START` (بدء):**
+     - تنفيذ الإجراءات المطلوبة (قد تكون لا شيء، كما هو موضح في الكود).
+   - **إذا كانت الحالة `CHANGE_SPEED` (تغيير السرعة):**
+     - تنفيذ الإجراءات المطلوبة (قد تكون لا شيء، كما هو موضح في الكود).
+   - **إذا كانت الحالة `STOP` (توقف):**
+     - تنفيذ الإجراءات المطلوبة (قد تكون لا شيء، كما هو موضح في الكود).
+
+3. **الانتهاء**"
+"30","Translate from Saudi Arabic into English. Output only the translation, do NOT output anything else before nor after it.
+وين كتب اللغات الأجنبية؟
+Translation:","Where are the foreign language books?"
+"31","Translate from Saudi Arabic into English. Output only the translation, do NOT output anything else before nor after it.
+افهم، بس ما اقدر أقوله.
+Translation:","I understand, but I can't say it."
+"32","Translate from Saudi Arabic into Modern Standard Arabic. Output only the translation, do NOT output anything else before nor after it.
+وشهد سباقها الآخر - سباق التزلج المتعرج العملاق - حصولها على المركز العاشر في مجموعة جلوس السيدات بوقت ركض مجموعه 4:41.30، وهو أبطأ بـ 2:11.60 دقيقة من صاحبة المركز الأول النمساوية كلوديا لوش، و 1:09.02 دقيقة من صاحبة المركز التاسع المجرية جيونجيي داني.
+Translation:","وفي سباقها الآخر - سباق التزلج المتعرج العملاق - حققت المركز العاشر في مجموعة جلوس السيدات بزمن إجمالي 4:41.30، وهو أبطأ بـ 2:11.60 دقيقة من النمساوية كلوديا لوش صاحبة المركز الأول، و 1:09.02 دقيقة من المجرية جيونجيي داني صاحبة المركز التاسع."
+"33","Translate from Modern Standard Arabic into Saudi Arabic. Output only the translation, do NOT output anything else before nor after it.
+عفواً . هل يوجد أي جسر بالقرب من هنا ؟
+Translation:","لو سمحت، فيه أي كبري قريب من هنا؟"
+"34","Translate from Saudi Arabic into Modern Standard Arabic. Output only the translation, do NOT output anything else before nor after it.
+وقد تدرب كطبيب توليد ثم بدأ العمل في مستشفى أوكلاند الوطني للمرأة في عام 1379ه.
+Translation:","وقد تدرب كطبيب توليد ثم بدأ العمل في مستشفى أوكلاند الوطني للمرأة في عام 1960م."
+"35","Translate from Modern Standard Arabic into Saudi Arabic. Output only the translation, do NOT output anything else before nor after it.
+تستخدم مدينة الفاتيكان اللغةَ الإيطالية في وضع تشريعاتها واتّصالاتها الرّسمية.
+Translation:","تستخدم مدينة الفاتيكان اللغة الإيطالية في وضع قوانينها واتصالاتها الرسمية."
+"36","Translate from Saudi Arabic into English. Output only the translation, do NOT output anything else before nor after it.
+ميزانيتنا حوالي خمسين دولار بالمجموع لثلاث اشخاص.
+Translation:","Our budget is approximately fifty dollars in total for three people."
+"37","Translate from Modern Standard Arabic into Saudi Arabic. Output only the translation, do NOT output anything else before nor after it.
+تتميز الشوارع الواسعة والمباني ذات الواجهة الزجاجية ومراكز التسوق الحديثة بأسقف تقليدية من القرميد الأحمر وسوق القرن الثامن عشر والمساجد والكنائس القديمة، على الرغم من أن المدينة تتمتع بجو أكثر من أوروبا المتوسطية مقارنة بتركيا التقليدية.
+Translation:","تتميز الشوارع الواسعة والمباني اللي واجهتها زجاجية والمولات الحديثة بأسقف تقليدية من القرميد الأحمر وسوق من القرن الثامن عشر والمساجد والكنائس القديمة، مع إن الجو في المدينة أقرب لأوروبا المتوسطية مقارنة بتركيا التقليدية."
+"38","Translate from English into Saudi Arabic. Output only the translation, do NOT output anything else before nor after it.
+As with all South African National Parks, there are daily conservation and entry fees for the park.
+Translation:","مثل كل المتنزهات الوطنية في جنوب أفريقيا، هناك رسوم يومية للحفاظ والدخول إلى المنتزه."
+"39","Translate from Saudi Arabic into Modern Standard Arabic. Output only the translation, do NOT output anything else before nor after it.
+تعد الدار البيضاء من الأماكن الأقل إثارة للتسوق في كل أنحاء المغرب.
+Translation:","تُعَدُّ الدار البيضاء من الأماكن الأقل إثارة للتسوق في جميع أنحاء المغرب."
+"40","وشي الشريحة اللي جملة مثل هذي تكون موجهة لها؟ ""وتبقى الحالات المشتبه في إصابتها بفيروس H5N1 في كرواتيا والدنمارك غير مؤكدة."" فسر اجابتك","الجملة موجهة إلى شريحة المختصين أو المهتمين في المجال الصحي أو البيولوجي، مثل الأطباء أو الباحثين في علم الأوبئة، حيث تتناول موضوعًا متخصصًا يتعلق بحالات الإصابة بفيروس H5N1 وتحتاج إلى فهم معين للمصطلحات العلمية والوضع الوبائي."
+"41","""بونساي شكلها هواية العجائز."" وش آثار هذا اذا احد قاله لك؟","إذا أحد قال لي ""بونساي شكلها هواية العجائز""، ممكن أضحك وأقول له إنه البونساي هواية ممتعة ومش مقتصرة على فئة عمرية معينة، وكل واحد له اهتمامات تختلف عن غيره."
+"42","Translate from Saudi Arabic into English. Output only the translation, do NOT output anything else before nor after it.
+بتالتأكيد، خذ وقتك.
+Translation:","Certainly, take your time."
+"43","Translate from Saudi Arabic into English. Output only the translation, do NOT output anything else before nor after it.
+لازم اترك كل شنطي في غرفة الامانات؟
+Translation:","Do I have to leave all my bags in the cloakroom?"
+"44","وش أهم المحاصيل في حايل؟","أهم المحاصيل في حائل تشمل القمح، والشعير، والذرة، والتمور، بالإضافة إلى بعض الفواكه والخضروات مثل الطماطم والبطاطس."
+"45","Translate from English into Saudi Arabic. Output only the translation, do NOT output anything else before nor after it.
+While visiting the monasteries, women are required to wear skirts covering the knees and have their shoulders covered, too.
+Translation:","أثناء زيارة الأديرة، يُطلب من النساء ارتداء تنانير تغطي الركبتين وتغطية الأكتاف أيضاً."
+"46","Translate from English into Saudi Arabic. Output only the translation, do NOT output anything else before nor after it.
+Yes, I'd like something to read.
+Translation:","نعم، أبغى شيء أقرأه."

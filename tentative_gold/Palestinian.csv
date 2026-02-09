@@ -1,0 +1,242 @@
+"rid","prompt","label"
+"0","Translate from English into Palestinian Arabic. Output only the translation, do NOT output anything else before nor after it.
+On 15 August 1940, the Allies invaded southern France, the invasion was called ""Operation Dragoon"".
+Translation:","في 15 أغسطس 1940، غزا الحلفاء جنوب فرنسا، وكانت الغزو يسمى ""عملية دراجون""."
+"1","ممكن تحكيلي شو هي استخدامات الجعدة العلاجية.","الجعدة بتستخدم في الطب الشعبي لعلاج مجموعة من الحالات، منها تحسين الهضم وتقليل مشاكل المعدة مثل الانتفاخ والغازات، وأيضاً ممكن تستعمل لتخفيف آلام الدورة الشهرية وتنظيمها. بعض الناس بيستخدموها كمضاد للالتهابات أو عشان تهدئة الأعصاب. لكن دايماً يفضل استشارة طبيب قبل استخدامها للعلاج، لأنه ممكن تكون إلها آثار جانبية أو تتفاعل مع أدوية تانية."
+"2","Translate from Palestinian Arabic into English. Output only the translation, do NOT output anything else before nor after it.
+بعرفش كتير عن النبيد. أي نوع زاكي مع هالوجبة؟
+Translation:","I don't know much about wine. What type goes well with this meal?"
+"3","شو يعني المثل الفلسطيني ""فرجيني عرض كتافك""؟","المثل ""فرجيني عرض كتافك"" يعني ببساطة طلب من شخص بالابتعاد أو المغادرة. يستخدم للتعبير عن الرغبة في أن يترك الشخص الآخر المكان أو الموقف."
+"4","صيغ رد مبدع  بيضمن هاي الجملة كعنصر أساسي: ""مدة الدورة بالعادة من 2 إلى 5 أيام وبتتضمن لعب الأدوار وكتير من الإسعافات الأولية وأحيانًا التدريب على الأسلحة.""","""إحنا بنوفر دورة مكثفة وفريدة من نوعها، مدتها بتكون عادة من 2 إلى 5 أيام. خلال هالفترة، رح تنغمس في تجارب حماسية تتضمن لعب الأدوار، وكتير من جلسات الإسعافات الأولية اللي رح تعطيك مهارات حياتية ضرورية. وأحيانًا، رح يكون عندك فرصة تتدرب على الأسلحة في بيئة آمنة وعملية. استعد لتجربة تعليمية لا مثيل لها!"""
+"5","Translate from Modern Standard Arabic into Palestinian Arabic. Output only the translation, do NOT output anything else before nor after it.
+الديانة الرئيسية في ""مولدوفا"" هي المسيحية الأرثوذكسية.
+Translation:","الدين الرئيسي في ""مولدوفا"" هو المسيحية الأرثوذكسية."
+"6","Translate from Palestinian Arabic into English. Output only the translation, do NOT output anything else before nor after it.
+مولدوفا جمهورية متعددة الأعراق عانت من صراع عرقي.
+Translation:","Moldova is a multi-ethnic republic that has suffered from ethnic conflict."
+"7","Translate from Palestinian Arabic into English. Output only the translation, do NOT output anything else before nor after it.
+فكرة منيحة. ايمتا مخطط تيجي؟
+Translation:","Good idea. When are you planning to come?"
+"8","اكتب ""حتكون طوكيو المدينة الآسيوية الوحيدة اللي استضافت دورتين من الألعاب الأولمبية الصيفية ، بعد ما استضافت الألعاب بسنة 1964."" بطريقتك وحافظ على المعنى الاصلي","رح تكون طوكيو المدينة الآسيوية الوحيدة اللي استضافت دورتين من الأولمبياد الصيفي، بعد ما استضافت الألعاب سنة 1964."
+"9","شو معنى المثل الفلسطيني ""يوم ديك ولا عشرة فرخة""؟","المثل الفلسطيني ""يوم ديك ولا عشرة فرخة"" يعني أن لحظة واحدة من القوة أو الفعالية أفضل من أيام عديدة من الضعف أو الفشل. يُستخدم للتأكيد على قيمة الجودة والقوة على الكمية أو التكرار."
+"10","احكيلي شو أنواع الحلو اللي لازم أجربها إذا زرت مدينة نابلس الفلسطينية.","لما تزور نابلس، في عدة أنواع من الحلويات لازم تجربها، وأشهرها:
+
+1. الكنافة النابلسية: وهي الأكلة الأشهر في نابلس، بتتكون من عجينة الكنافة الناعمة أو الخشنة مع الجبنة النابلسية وبتنحلى بالقطر.
+
+2. المدلوقة: وهي حلوى تشبه الكنافة، بس بتيجي محشية بالقشطة وبتزين بالفستق الحلبي.
+
+3. القطايف: خاصة في شهر رمضان، وهي عجينة محشية بالجوز أو القشطة وبتنقلى أو بتخبز، وبتسقى بالقطر.
+
+4. المعمول: بيجي محشي بالتمر أو الجوز، وبيتميز بطعمه الحلو وقوامه الهش.
+
+5. الزلابية: حلوى مقلية بتكون مقرمشة من بره وطرية من جوه، وبتنحلى بالقطر.
+
+هدول بعض الأنواع اللي لازم تجربها لتستمتع بالنكهات النابلسية الأصيلة."
+"11","""وصف أحد المراقبين مدينة بيشكيك بأنها تغرق في حالة ""فوضى"" من قبل مراقب واحد، بحيث كانت العصابات من الناس معبية الشوارع ونهبوا محلات السلع الاستهلاكية."" رد على هالموضوع","فعلاً، الوضع في بيشكيك يبدو مقلق جداً. الفوضى اللي عم نشوفها بسبب العصابات اللي عم تعبّي الشوارع وتنهب المحلات بتأثر سلباً على حياة الناس اليومية وعلى الأمان بالمدينة. هالنوع من الأوضاع بيحتاج لتدخل سريع من السلطات المحلية لفرض النظام وحماية الممتلكات العامة والخاصة. لازم يكون في خطة واضحة للتعامل مع هيك حالات ولإعادة الاستقرار للمدينة."
+"12","""بالنسبة لبعض المهرجانات ، فالغالبية العظمى من الحاضرين في المهرجانات الموسيقية بقررو التخييم بالموقع ، وبيعتبره أغلب الحاضرين جزء حيوي من التجربة."" اكتب هاي الجملة بطريقتك وحافظ على المعنى الاصلي","بعض المهرجانات، بيقرر أغلب الناس اللي بيحضروا المهرجانات الموسيقية إنه يخيموا بالمكان، وبيشوفوا إنه التخييم جزء مهم من التجربة."
+"13","Translate from English into Palestinian Arabic. Output only the translation, do NOT output anything else before nor after it.
+The National Hurricane Center (NHC) says that at this point Jerry poses no threat to land.
+Translation:","مركز الأعاصير الوطني (NHC) يقول إنه في هذه اللحظة جيري لا يشكل تهديدًا على اليابسة."
+"14","Translate from Modern Standard Arabic into Palestinian Arabic. Output only the translation, do NOT output anything else before nor after it.
+تشمل الموضوعات الأخرى المدرجة على جدول أعمال بالي الحفاظ على الغابات المتبقية في العالم، وتبادل التكنولوجيات لمساعدة الدول النامية على النمو بطرق أقل تلويثاً
+Translation:","المواضيع التانية اللي على جدول أعمال بالي بتشمل الحفاظ على الغابات اللي ضايلة بالعالم، وتبادل التكنولوجيات عشان تساعد الدول النامية تنمو بطرق أقل تلويث."
+"15","Translate from Modern Standard Arabic into Palestinian Arabic. Output only the translation, do NOT output anything else before nor after it.
+معجنات الفاكهة شائعة حيث يُطهى التفاح في المعجنات على مدار العام في حين يظهر الكرز والبرقوق خلال الصيف.
+Translation:","المعجنات اللي بالفواكه مشهورة، دايمًا بنطبخ التفاح فيها طول السنة، بس الكرز والبرقوق بيطلعوا بالصيف."
+"16","Translate from English into Palestinian Arabic. Output only the translation, do NOT output anything else before nor after it.
+Could you send someone?
+Translation:","ممكن تبعت حدا؟"
+"17","صيغ رد مبدع  بيضمن هاي الجملة كعنصر أساسي: ""يمكن يختار هذولا الأزواج وضع خطة تبني لأطفالهم.""","""في رحلة حياتهم المشتركة، يمكن لهؤلاء الأزواج أن ينسجوا حلمًا جديدًا، حيث يختارون وضع خطة تبني لأطفالهم، فيكونون لهم سندًا ودعمًا في كل خطوة."""
+"18","Translate from English into Palestinian Arabic. Output only the translation, do NOT output anything else before nor after it.
+You can also have alloys that include small amounts of non-metallic elements like carbon.
+Translation:","ممكن كمان يكون عندك سبائك تشمل كميات صغيرة من العناصر غير المعدنية زي الكربون."
+"19","""بدي بجامات."" اكتب هاي الجملة بطريقتك وحافظ على المعنى الاصلي","بدي بيجامات."
+"20","I have a Python script that scrapes a webpage using Playwright. Now I want to start ten instances of that script in parallel on one AWS EC2 instance, but so that each script binds to a different IP address. Explain in Palestinian Arabic how can I do that with Terraform?","عشان تشغل عشر نسخ من السكربت بشكل متوازي على AWS EC2 وتربط كل سكربت بعنوان IP مختلف، لازم تسوي الآتي باستخدام Terraform:
+
+1. **إنشاء VPC**: أول شي، تأكد إنك عندك VPC مناسب، إذا مش موجود، لازم تنشئ واحد.
+
+2. **إنشاء Subnets مختلفة**: أنشئ عشر subnets مختلفة داخل الـ VPC نفسه. هيك بتقدر تربط كل سكربت بـ subnet مختلف وبالتالي عنوان IP مختلف.
+
+3. **إعداد Elastic IPs**: لازم تحجز عشر Elastic IPs في الـ AWS وتربط كل واحد فيهم بـ subnet مختلف.
+
+4. **تحديث Terraform Configuration**: في ملف الـ Terraform، أضف الموارد المطلوبة لإنشاء الـ EC2 instance مع الشبكات المطلوبة. راح تحتاج كمان تضيف السكربت اللي بدك تشغله كـ user data عشان يتنفذ عند تشغيل الـ instance.
+
+5. **إدارة الـ Security Groups**: تأكد إنك عامل الإعدادات المناسبة للـ security groups عشان تسمح بالاتصالات المطلوبة وتضمن الأمان.
+
+6. **تشغيل Terraform**: بعد ما تجهز كل الإعدادات في ملفات Terraform، استخدم الأوامر `terraform init` و `terraform apply` لتطبيق التغييرات وإنشاء الموارد المطلوبة.
+
+هيك بتكون قدرت تشغل عشر نسخ من السكربت، وكل وحدة منهم مربوطة بعنوان IP مختلف باستخدام Terraform."
+"21","Translate from Modern Standard Arabic into Palestinian Arabic. Output only the translation, do NOT output anything else before nor after it.
+أُبعدت العربة من مكان الحادثة في الساعة 12:00 تقريباً بتوقيت جرينتش في نفس يوم وقوعها.
+Translation:","انشالت العربة من مكان الحادثة حوالي الساعة 12:00 بتوقيت جرينتش بنفس يوم وقوعها."
+"22","""ما بصير تحضر تلفزيون طول الوقت."" صيغ رد مبدع  بيضمن هاي الجملة كعنصر أساسي","""يا زلمة، التلفزيون مش شريك حياتك، خليك شوي بعيد عنه!"""
+"23","Translate from Modern Standard Arabic into Palestinian Arabic. Output only the translation, do NOT output anything else before nor after it.
+نحن في انتظار حضور أصدقائنا .
+Translation:","إحنا بنستنى حضور صحابنا."
+"24","Translate from English into Palestinian Arabic. Output only the translation, do NOT output anything else before nor after it.
+What time does the post office close?
+Translation:","أي ساعة بتسكر مكتب البريد؟"
+"25","Translate from Palestinian Arabic into Modern Standard Arabic. Output only the translation, do NOT output anything else before nor after it.
+إذا كان بدك معجنات صغيرة و معباية ، فحاول حسب المنطقة اللي بسموها برلينر أو بفانكوشن أو كرابفن.
+Translation:","إذا كنت تريد معجنات صغيرة ومحشوة، فحاول حسب المنطقة التي يسمونها برلينر أو بفانكوشن أو كرابفن."
+"26","Translate from Palestinian Arabic into Modern Standard Arabic. Output only the translation, do NOT output anything else before nor after it.
+هاي السجاير خفيفة؟
+Translation:","هل هذه السجائر خفيفة؟"
+"27","Translate from English into Palestinian Arabic. Output only the translation, do NOT output anything else before nor after it.
+I've missed my stop.
+Translation:","راحت علي المحطة."
+"28","Translate from English into Palestinian Arabic. Output only the translation, do NOT output anything else before nor after it.
+You can't really do design work without a computer anymore.
+Translation:","ما بتقدر تعمل شغل التصميم بدون كمبيوتر بعد هالوقت."
+"29","Translate from Modern Standard Arabic into Palestinian Arabic. Output only the translation, do NOT output anything else before nor after it.
+أثناء زيارة الأديرة، يُطلب من النساء ارتداء التنانير التي تغطي الركبتين وتغطية أكتافهن، أيضاً.
+Translation:","أثناء زيارة الأديرة، بطلب من النساء يلبسوا تنانير تغطي الركب ويغطوا أكتافهم كمان."
+"30","Can you generate a flowchart in Palestinian Arabic for the following code : switch (currentState) {
+   case IDLE:
+
+       break;
+    case START:
+
+       break;
+           
+    case CHANGE_SPEED:
+
+       break;           
+           
+    case STOP:
+
+       break;
+}","عذرًا، لا أستطيع إنشاء رسم بياني. ولكن يمكنني مساعدتك في فهم كيفية إنشاء مخطط انسيابي يدويًا:
+
+1. ابدأ بدائرة تشير إلى ""بداية البرنامج"".
+2. استخدم مستطيل لكتابة ""switch على currentState"".
+3. اخرج بسهم من المستطيل إلى عدة أشكال معيّنة (معينية)، كل واحدة تمثل حالة مختلفة:
+   - ""حالة IDLE"" 
+   - ""حالة START""
+   - ""حالة CHANGE_SPEED""
+   - ""حالة STOP""
+4. من كل شكل معيّن، استخدم سهمًا قصيرًا إلى مستطيل فارغ (يمثل الكود الذي ينفذ في كل حالة) أو إلى دائرة تشير إلى ""نهاية البرنامج"" إذا كان الحالة تؤدي إلى إنهاء البرنامج.
+5. اربط كل هذه الأشكال معًا باستخدام الأسهم لتوضيح تدفق البرنامج.
+
+هذا هو الشكل العام لمخطط انسيابي لمثل هذا الكود."
+"31","Translate from English into Palestinian Arabic. Output only the translation, do NOT output anything else before nor after it.
+Please say it again more slowly.
+Translation:","احكيها مرة ثانية ببطء أكتر."
+"32","اكتب قصة بتبلش بهاي الجملة: ""كان المرفأ موقع لمواجهاتٍ بحريةٍ سمعتها سيئة في ١٨٨٩ لما رفضت سبع سفن من ألمانيا والولايات المتحدة وبريطانيا مغادرة المينا.""","كان المرفأ موقع لمواجهاتٍ بحريةٍ سمعتها سيئة في ١٨٨٩ لما رفضت سبع سفن من ألمانيا والولايات المتحدة وبريطانيا مغادرة المينا. في ذلك الوقت، كان الجو ملبّدًا بالغيوم والرياح تعصف بقوة، مما زاد من توتر الأجواء بين الأطراف المتنازعة. على الرصيف، تجمهر السكان المحليون يراقبون المشهد بقلق وترقب. كانت هناك شائعات تدور حول احتمال اندلاع معركة بحرية قد تؤدي إلى كارثة.
+
+على متن السفن، كانت الأطقم مستعدة لأي طارئ، لكن المحادثات الدبلوماسية بين القادة استمرت في محاولة لتجنب المواجهة. أخيرًا، بعد يومين من المفاوضات المكثفة، تم التوصل إلى اتفاق بين الأطراف، وتعهدت السفن بالمغادرة تدريجيًا، مما أعاد بعض الهدوء إلى المرفأ.
+
+تحولت هذه الحادثة إلى جزء من تاريخ المدينة، تُروى قصتها من جيل إلى جيل، تعبيرًا عن أهمية الحوار والدبلوماسية في منع الحروب والصراعات."
+"33","شو يعني المثل الفلسطيني ""بتروح السكرة وبتيجي الفكرة""؟","المثل ""بتروح السكرة وبتيجي الفكرة"" يعني أنه بعد انتهاء فترة الفرح أو النشوة، يبدأ الشخص في التفكير بعقلانية ووضوح حول الأمور، وقد يدرك العواقب أو الحقائق التي لم يكن ينتبه لها أثناء تلك الفترة."
+"34","Answer in Palestinian Arabic. how can I index large codebase so I can traverse on output variable to get all the intermediate variables used to calculate that specific output variable?","عشان تفهرس كود كبير وتقدر تتبع المتغيرات الوسيطة اللي بتستخدم لحساب متغير مخرجات محدد، فيك تتبع الخطوات التالية:
+
+1. **استخدم أدوات تحليل ثابتة (Static Analysis Tools):** فيه أدوات مثل SonarQube أو Clang اللي بتساعدك تفحص الكود وتحدد العلاقة بين المتغيرات.
+
+2. **تتبع الاعتماديات (Dependency Tracking):** حاول تبني خوارزمية تتبع الاعتماديات اللي بتبدأ من المتغير النهائي وبتمشي للوراء لتحدد كل المتغيرات الوسيطة اللي استخدمت.
+
+3. **استخدم التعليقات والوسوم (Comments and Tags):** إذا كنت بتشتغل على الكود بنفسك، حاول تضيف تعليقات أو وسوم توضح فيها كل خطوة وحساباتها.
+
+4. **بناء رسم بياني للتدفق (Flowchart):** رسم بياني يوضح تدفق البيانات بين المتغيرات ممكن يساعدك تتبع العمليات بشكل بصري.
+
+5. **أدوات تتبع ديناميكي (Dynamic Tracing Tools):** إذا كان بالإمكان، شغل الكود وتابع تنفيذ العمليات باستخدام أدوات تتبع ديناميكية اللي بتوضح لك تدفق البيانات ومتغيرات الحسابات.
+
+6. **استخدام نظم التحكم بالإصدارات (Version Control Systems):** مثل Git، اللي بيساعدك تستعرض تاريخ التغييرات وتفهم كيفية تطور المتغيرات على مر الوقت.
+
+هالخطوات ممكن تساعدك تبني صورة شاملة عن كيفية حساب المتغيرات في الكود الكبير."
+"35","Translate from Palestinian Arabic into English. Output only the translation, do NOT output anything else before nor after it.
+انتقلنا على هدا البيت قبل سنة تقريباً.
+Translation:","We moved to this house about a year ago."
+"36","Translate from Palestinian Arabic into Modern Standard Arabic. Output only the translation, do NOT output anything else before nor after it.
+في تقليد ليقضو ليلة عيد الفصح صاحيين ببعض الأمكان المكشوفة ليشوفو شروق الشمس.
+Translation:","في تقليد لقضاء ليلة عيد الفصح مستيقظين في بعض الأماكن المكشوفة لرؤية شروق الشمس."
+"37","Translate from Palestinian Arabic into Modern Standard Arabic. Output only the translation, do NOT output anything else before nor after it.
+بس رئيس الوزراء جون هاوارد حكى القانون كان بس لحماية الأماكن في المستشفى من تقليل عددها من حكومة تازمانيا، بتقديم 45$ مليون دولار أسترالي.
+Translation:","لكن رئيس الوزراء جون هاوارد قال القانون كان فقط لحماية الأماكن في المستشفى من تقليل عددها من حكومة تاسمانيا، بتقديم 45 مليون دولار أسترالي."
+"38","Translate from Modern Standard Arabic into Palestinian Arabic. Output only the translation, do NOT output anything else before nor after it.
+أريد بعض التفاح ، من فضلك .
+Translation:","بدي شوية تفاح، لو سمحت."
+"39","""بتستخدم مدينة الفاتيكان اللغة الإيطالية بتشريعاتها واتصالاتها الرسمية."" رد على هالموضوع","مدينة الفاتيكان بتستخدم اللغة اللاتينية بشكل رئيسي في التشريعات والوثائق الرسمية، بس اللغة الإيطالية كمان بتستخدم كتير في الاتصالات اليومية والمعاملات الرسمية بسبب موقعها الجغرافي في إيطاليا وتأثير الثقافة الإيطالية عليها."
+"40","Translate from English into Palestinian Arabic. Output only the translation, do NOT output anything else before nor after it.
+Is there a afternoon tour?
+Translation:","فيه جولة بعد الظهر؟"
+"41","Translate from Palestinian Arabic into Modern Standard Arabic. Output only the translation, do NOT output anything else before nor after it.
+الدكتور إيهود أر، بروفيسور الطب في جامعة دالهاوسي في هاليفاكس، نوفا سكوشا ورئيس القسم السرير والعلمي في مؤسسة السكري الكندية حذّر إنه البحث لسه في أيامه الأولى.
+Translation:","الدكتور إيهود أر، بروفيسور الطب في جامعة دالهاوسي في هاليفاكس، نوفا سكوشا ورئيس القسم السريري والعلمي في مؤسسة السكري الكندية حذّر أن البحث لا يزال في مراحله الأولى."
+"42","Translate from Palestinian Arabic into Modern Standard Arabic. Output only the translation, do NOT output anything else before nor after it.
+مع انه العربيات كانت بس ألواح خشبية متوازية ،بس سمحت للخيل بسحبها لتحقيق سرعات أكبر وسحب أحمال أكبر من هديك اللي كانت تمشي على الطرق الأكثر وعورة في اليوم.
+Translation:","على الرغم من أن العربات كانت فقط ألواح خشبية متوازية، إلا أنها سمحت للخيول بسحبها لتحقيق سرعات أكبر وسحب أحمال أكبر من تلك التي كانت تسير على الطرق الأكثر وعورة في ذلك الوقت."
+"43","شو هي نتائج هاد إذا حدا قلك ياه؟: ""في 15 أغسطس 1940 ، غزا الحلفاء جنوب فرنسا ، وسمو الغزو ""عملية دراجون الأولى"".""","اللي حكاك هاد الكلام غلطان. الغزو اللي صار في جنوب فرنسا من قبل الحلفاء كان في 15 أغسطس 1944، واسم العملية كان ""عملية دراجون""، مش ""عملية دراجون الأولى""."
+"44","Translate from Modern Standard Arabic into Palestinian Arabic. Output only the translation, do NOT output anything else before nor after it.
+رقم مقعدك هو اثنان وثلاثون أ . بعد ذلك سر في خط مستقيم في هذه الطرقة . إنه المقعد المجاور للنافذة .
+Translation:","رقم كرسيك هو ٣٢ أ. بعدين امشي دغري في هالطريق. هو الكرسي اللي جنب الشباك."
+"45","Translate from English into Palestinian Arabic. Output only the translation, do NOT output anything else before nor after it.
+The Moroccan sultan rebuilt the city as Daru l-Badya and it was given the name Casablanca by Spanish traders who established trading bases there.
+Translation:","أعاد السلطان المغربي بناء المدينة كدار البديا وأعطاها التجار الإسبان اسم ""كازابلانكا"" بعدما أنشأوا هناك قواعد تجارية."
+"46","Translate from Palestinian Arabic into English. Output only the translation, do NOT output anything else before nor after it.
+أه، حضرتك. باجي بفطر هون كل يوم، من التنين للجمعة، قبل ما أروح على الشغل.
+Translation:","Oh, you. I come here for breakfast every day, from Monday to Friday, before I go to work."
+"47","Translate from Palestinian Arabic into Modern Standard Arabic. Output only the translation, do NOT output anything else before nor after it.
+من حيث المبدأ ، فالبوذية التبتية بسيطة كتير. وهو بيتألف من كونداليني يوغا والتأمل ومسار الحب الشامل.
+Translation:","من حيث المبدأ، فإن البوذية التبتية بسيطة جداً. وهي تتألف من كونداليني يوغا والتأمل ومسار الحب الشامل."
+"48","```
+[
+    {
+        ""Name"": ""libaom (Two-pass)"",
+        ""Description"": ""2-pass, In order to create more efficient encodes when a particular target bitrate should be reached."",
+        ""First_pass"": ""-pass 1 -an -sn -c:v libaom-av1 -b:v 2M -usage good -cpu-used 4 -row-mt 1 -tiles 2x2 -g 250 -keyint_min 250 -pix_fmt yuv420p -f null"",
+        ""Second_pass"": ""-pass 2 -c:v libaom-av1 -b:v 2M -usage good -cpu-used 4 -row-mt 1 -tiles 2x2 -g 250 -keyint_min 250 -pix_fmt yuv420p -map 0:v? -map_chapters 0 -map 0:s? -c:a: libopus -compression_level 5 -map 0:a:? -map_metadata 0"",
+        ""Supported_list"": """",
+        ""Output_extension"": ""mkv""
+    }
+]
+```
+
+Using the provided code block as reference, create a videomass preset that converts a video file to av1 with close to lossless quality while also reducing file size. make sure it is two-pass. Answer in Palestinian Arabic.","```
+[
+    {
+        ""Name"": ""libaom (Two-pass) Close to Lossless"",
+        ""Description"": ""2-pass, Encoding to AV1 with close to lossless quality and reduced file size."",
+        ""First_pass"": ""-pass 1 -an -sn -c:v libaom-av1 -b:v 0 -crf 15 -usage good -cpu-used 2 -row-mt 1 -tiles 2x2 -g 250 -keyint_min 250 -pix_fmt yuv420p -f null"",
+        ""Second_pass"": ""-pass 2 -c:v libaom-av1 -b:v 0 -crf 15 -usage good -cpu-used 2 -row-mt 1 -tiles 2x2 -g 250 -keyint_min 250 -pix_fmt yuv420p -map 0:v? -map_chapters 0 -map 0:s? -c:a: libopus -compression_level 5 -map 0:a:? -map_metadata 0"",
+        ""Supported_list"": """",
+        ""Output_extension"": ""mkv""
+    }
+]
+```"
+"49","Translate from Palestinian Arabic into Modern Standard Arabic. Output only the translation, do NOT output anything else before nor after it.
+أي ساعة بيسكر البريد؟
+Translation:","في أي ساعة يغلق البريد؟"
+"50","please write me a python matrix bot that can respond to mentions in Palestinian Arabic","```python
+import asyncio
+from nio import AsyncClient, MatrixRoom, RoomMessageText
+
+class MatrixBot:
+    def __init__(self, homeserver, user_id, access_token):
+        self.client = AsyncClient(homeserver, user_id)
+        self.client.access_token = access_token
+        self.client.add_event_callback(self.message_callback, RoomMessageText)
+
+    async def message_callback(self, room: MatrixRoom, event: RoomMessageText):
+        if self.client.user in event.mentions:
+            response = f""مرحبا! كيف يمكنني مساعدتك، {event.sender}؟""
+            await self.client.room_send(
+                room_id=room.room_id,
+                message_type=""m.room.message"",
+                content={""msgtype"": ""m.text"", ""body"": response}
+            )
+
+    async def run(self):
+        await self.client.sync_forever(timeout=30000)
+
+async def main():
+    homeserver = ""https://your-homeserver""
+    user_id = ""@your-username:your-homeserver""
+    access_token = ""your-access-token""
+
+    bot = MatrixBot(homeserver, user_id, access_token)
+    await bot.run()
+
+asyncio.get_event_loop().run_until_complete(main())
+```"
+"51","ايش معنى هاد المثل:
+""طلع زي مصيفين أريحا""","المثل ""طلع زي مصيفين أريحا"" يُقال للشخص الذي يعد بالكثير لكنه لا يفي بوعوده أو لا يحقق ما يُتوقع منه، مثل الأشخاص الذين يخططون للذهاب إلى أريحا للصيف ولكن لا يقومون بذلك فعلاً."

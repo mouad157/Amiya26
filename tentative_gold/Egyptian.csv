@@ -1,0 +1,252 @@
+"rid","prompt","label"
+"0","Translate from Egyptian Arabic into Modern Standard Arabic. Output only the translation, do NOT output anything else before nor after it.
+في آخر نتائج الاستطلاع اللي ظهرت لينا 29 في الميه شافوا أن أستراليا لازم تكون جمهورية في أسرع وقت، و31 في الميه شافوا أن أستراليا مينفعش تكون جمهورية خالص.
+Translation:","في أحدث نتائج الاستطلاع التي ظهرت لنا، 29 في المئة رأوا أن أستراليا يجب أن تكون جمهورية في أسرع وقت، و31 في المئة رأوا أن أستراليا لا ينبغي أن تكون جمهورية على الإطلاق."
+"1","Translate from Egyptian Arabic into English. Output only the translation, do NOT output anything else before nor after it.
+خدمة سريعة.
+Translation:","Quick service."
+"2","As a Software Engineering professor, create topics for an ""Software Architecture"" discipline that you are going to teach, reply in Egyptian Arabic. The discipline has three classes of 10 hours each. It is a especialization course.","طبعًا، دي بعض المواضيع اللي ممكن تتغطى في كورس ""هندسة البرمجيات"" بخصوص معمارية البرمجيات:
+
+**الحصة الأولى: المبادئ الأساسية لمعمارية البرمجيات**
+1. مقدمة عن معمارية البرمجيات ودورها في تطوير الأنظمة.
+2. الأنماط التصميمية الأساسية (Design Patterns).
+3. تقييم الجودة والمعايير الهندسية في المعمارية.
+
+**الحصة الثانية: معمارية البرمجيات الحديثة**
+1. معمارية الخدمات المصغرة (Microservices Architecture).
+2. معمارية السحابة (Cloud Architecture) وأهميتها.
+3. التعامل مع البيانات الكبيرة (Big Data) في معمارية البرمجيات.
+
+**الحصة الثالثة: معمارية البرمجيات المتقدمة وتطبيقاتها**
+1. المعمارية الموجهة بالأحداث (Event-Driven Architecture).
+2. التصميم للمقاييس الكبيرة (Scalability) والتوزيع.
+3. أدوات ونماذج تقييم المعمارية (مثل: TOGAF، Zachman Framework).
+
+دي المواضيع الأساسية اللي هتتغطى في كل حصة، واللي هتساعد الطلبة في فهم الأسس والمعايير الحديثة في معمارية البرمجيات."
+"3","Translate from Egyptian Arabic into Modern Standard Arabic. Output only the translation, do NOT output anything else before nor after it.
+هو ده بيشمل الضريبة؟
+Translation:","هل هذا يشمل الضريبة؟"
+"4","Translate from English into Egyptian Arabic. Output only the translation, do NOT output anything else before nor after it.
+I'd like some pajamas.
+Translation:","عايز بيجامة."
+"5","Translate from Egyptian Arabic into English. Output only the translation, do NOT output anything else before nor after it.
+انا بره اوضتي و ماعيش مفتاح .
+Translation:","I'm outside my room and I don't have a key."
+"6","Translate from Modern Standard Arabic into Egyptian Arabic. Output only the translation, do NOT output anything else before nor after it.
+إنه مغلق في أيام الاثنين ، ولكن أي يوم آخر سيكون لا بأس به . أعتقد أنه يُفتح من التاسعة حتى الخامسة .
+Translation:","هو مقفول يوم الاتنين، بس أي يوم تاني هيبقى ماشي. أعتقد إنه بيفتح من الساعة تسعة للساعة خمسة."
+"7","تعرف تقولي ايه أكبر إنجاز حصل في مصر في مجال التكنولوجيا في السنوات الأخيرة؟","من الإنجازات الكبيرة في مجال التكنولوجيا في مصر في السنوات الأخيرة هو إطلاق القمر الصناعي ""طيبة-1"" في نوفمبر 2019. ""طيبة-1"" هو أول قمر صناعي للاتصالات مملوك لمصر ويهدف إلى توفير خدمات الإنترنت والاتصالات الهاتفية في المناطق النائية والمناطق غير المأهولة في مصر، مما يسهم في تحسين البنية التحتية للاتصالات في البلاد."
+"8","Translate from Egyptian Arabic into English. Output only the translation, do NOT output anything else before nor after it.
+العادة جرت أن وكلاء السفر يقدموا باقات منها الإفطار، وترتيبات التنقل من وإلى المطار أو حتى باقات مجمعة منها الطيران والفنادق.
+Translation:","It is customary for travel agents to offer packages that include breakfast, transportation arrangements to and from the airport, or even combined packages that include flights and hotels."
+"9","Translate from Egyptian Arabic into Modern Standard Arabic. Output only the translation, do NOT output anything else before nor after it.
+رحلة المشي بتاعتنا لازم تكون مليانه بالمتعة .
+Translation:","يجب أن تكون رحلتنا للمشي مليئة بالمتعة."
+"10","Translate from Modern Standard Arabic into Egyptian Arabic. Output only the translation, do NOT output anything else before nor after it.
+لم تكن هناك غابات كبيرة في أرض كنعان، لذلك كان الخشب باهظ الثمن.
+Translation:","ماكانش فيه غابات كبيرة في أرض كنعان، عشان كده كان الخشب غالي."
+"11","Translate from Modern Standard Arabic into Egyptian Arabic. Output only the translation, do NOT output anything else before nor after it.
+أثناء زيارة الأديرة، يُطلب من النساء ارتداء التنانير التي تغطي الركبتين وتغطية أكتافهن، أيضاً.
+Translation:","أثناء زيارة الأديرة، بيتطلب من الستات يلبسوا جيبات تغطي الركب ويغطوا كتافهم، كمان."
+"12","Translate from English into Egyptian Arabic. Output only the translation, do NOT output anything else before nor after it.
+At the extremes of the poll, 29 per cent of those surveyed believe Australia should become a republic as soon as possible, while 31 per cent believe Australia should never become a republic.
+Translation:","في الطرفين المتطرفين من الاستطلاع، 29 في المية من اللي تم استطلاعهم بيعتقدوا ان استراليا لازم تبقى جمهورية في أسرع وقت ممكن، بينما 31 في المية بيعتقدوا ان استراليا ماينفعش تبقى جمهورية أبدًا."
+"13","Translate from English into Egyptian Arabic. Output only the translation, do NOT output anything else before nor after it.
+I'd like to check my valuables.
+Translation:","أحب أتحقق من حاجاتي القيمة."
+"14","رد على الكلام ده: ""خلينا نعمل كمادات باردة علشان نخفف الالم .""","فكرة حلوة، الكمادات الباردة ممكن تساعد كتير في تخفيف الألم."
+"15","ايه المثل اللي معناه أن الواحد صعب يثق في الرجالة وأنهم عينهم زايغة
+""ضل راجل ولا ضل حيطة""
+""يا مآمنة للرجال يا مآمنة للمية في الغربال""","""يا مآمنة للرجال يا مآمنة للمية في الغربال"""
+"16","I want you to act as an experienced software developer who speaks fluent Egyptian Arabic. I will provide information about a web app requirements. It will be your job to come up with a system connection architecture, a specific list of helper code libraries, a clear list of 5 sprint tickets from the  project setup, and a detailed list of tasks for each of such tickets to develop an scalable and secure app with NodeJS, SQL and React. My request is this: 'I desire a system that allow users to register and save information related to mechanical devices inventory (name, reference, quantity, etc) according to their roles. There will be user, staff and admin roles. Users should be able to read all and to update individual records. Staff could also add new records and submit bulk updates. Admin also should create and eliminate entities like ddbb fields and users'. Implement the best practices on your proposal","### System Connection Architecture
+1. **Frontend**: React.js application for user interface.
+2. **Backend**: Node.js with Express.js for handling API requests.
+3. **Database**: SQL (e.g., PostgreSQL) for storing user and inventory data.
+4. **Authentication**: JWT (JSON Web Tokens) for securing user sessions.
+5. **Role-Based Access Control**: Middleware in Node.js to enforce role permissions.
+
+### Helper Code Libraries
+1. **Express.js**: Web framework for Node.js.
+2. **Sequelize**: ORM for SQL database management.
+3. **jsonwebtoken**: For handling JWT-based authentication.
+4. **bcryptjs**: For hashing passwords.
+5. **axios**: For making HTTP requests from the React frontend.
+
+### Sprint Tickets and Tasks
+
+#### Ticket 1: Project Setup
+- **Task 1**: Initialize Node.js project with `npm init`.
+- **Task 2**: Set up Express.js server.
+- **Task 3**: Configure PostgreSQL database with Sequelize.
+- **Task 4**: Create initial database schema for users and inventory.
+- **Task 5**: Set up React.js project with create-react-app.
+
+#### Ticket 2: Authentication and Authorization
+- **Task 1**: Implement user registration and login endpoints.
+- **Task 2**: Set up JWT authentication for secured routes.
+- **Task 3**: Create middleware for role-based access control.
+- **Task 4**: Secure API endpoints using JWT and role-based middleware.
+- **Task 5**: Implement password hashing using bcryptjs.
+
+#### Ticket 3: Inventory Management
+- **Task 1**: Create API endpoints for CRUD operations on inventory.
+- **Task 2**: Implement role permissions for users, staff, and admin.
+- **Task 3**: Allow staff to add new records and bulk updates.
+- **Task 4**: Ensure users can read and update individual records.
+- **Task 5**: Allow admin to manage database fields.
+
+#### Ticket 4: Frontend Development
+- **Task 1**: Design React components for login and registration.
+- **Task 2**: Create components for inventory listing and management.
+- **Task 3**: Implement role-based UI changes (e.g., admin options).
+- **Task 4**: Integrate frontend with backend API using axios.
+- **Task 5**: Implement form validation and error handling.
+
+#### Ticket 5: Testing and Security
+- **Task 1**: Write unit tests for backend APIs using Jest.
+- **Task 2**: Write integration tests for React components.
+- **Task 3**: Conduct security audit for potential vulnerabilities.
+- **Task 4**: Set up automated testing and CI/CD pipeline.
+- **Task 5**: Implement data validation and sanitization to prevent SQL injection and XSS.
+
+ده كان المخطط العام للتطبيق اللي انت عاوزه، وده من أفضل الممارسات اللي ممكن نستخدمها علشان نضمن الأداء والأمان. لو في حاجة تانية تحب تعرفها أو تفاصيل أكتر، قولي."
+"17","ايه نصايح للسياح عشان ما يتعرضوش لمشاكل في مصر؟","1. اتبع التعليمات والقوانين المحلية واحترم العادات والتقاليد.
+2. تجنب السير في الأماكن النائية أو المظلمة ليلاً.
+3. احتفظ بنسخة من جواز السفر والمستندات الهامة في مكان آمن.
+4. استخدم وسائل النقل المرخصة وتجنب ركوب سيارات الأجرة غير الرسمية.
+5. تجنب إظهار النقود والممتلكات القيمة في الأماكن العامة.
+6. استفسر من الفندق أو المرشد السياحي عن المناطق الآمنة للزيارة.
+7. تواصل مع السفارة الخاصة ببلدك في حالة الطوارئ.
+8. احرص على شرب المياه المعبأة وتجنب الأطعمة المباعة من الباعة الجائلين.
+9. كن حذراً عند استخدام بطاقات الائتمان ويفضل استخدام النقد في المعاملات الصغيرة.
+10. تعلم بعض العبارات البسيطة باللغة العربية للتواصل بشكل أفضل."
+"18","Translate from English into Egyptian Arabic. Output only the translation, do NOT output anything else before nor after it.
+Is it still fully booked?
+Translation:","لسه محجوز بالكامل؟"
+"19","Translate from Modern Standard Arabic into Egyptian Arabic. Output only the translation, do NOT output anything else before nor after it.
+هل يمكن أن أرجع ظهر مقعدي إلى الخلف ، من فضلك .
+Translation:","ممكن أرجع ظهر الكرسي لورا، لو سمحت."
+"20","Translate from Egyptian Arabic into Modern Standard Arabic. Output only the translation, do NOT output anything else before nor after it.
+الشوارع الواسعة والمباني اللي الواجهة بتاعتها زجاجية ومراكز التسوق الحديثة لها أسقف تقليدية من القرميد الأحمر وسوق القرن التمنتاشر والمساجد والكنائس القديمة، رغم أن المدينة فيها جو أكبر من أوروبا المتوسطية لو قارناها بتركيا التقليدية.
+Translation:","الشوارع الواسعة والمباني التي واجهتها زجاجية ومراكز التسوق الحديثة لها أسقف تقليدية من القرميد الأحمر وسوق القرن الثامن عشر والمساجد والكنائس القديمة، رغم أن المدينة تمتلك جوًا أقرب إلى أوروبا المتوسطية عند مقارنتها بتركيا التقليدية."
+"21","Translate from Egyptian Arabic into English. Output only the translation, do NOT output anything else before nor after it.
+رغم كده أي تعديلات أو طلبات بتكون عبر وكيل السفر في البداية ومش عن طريق الفندق.
+Translation:","Despite that, any modifications or requests are initially made through the travel agent and not through the hotel."
+"22","Translate from Egyptian Arabic into Modern Standard Arabic. Output only the translation, do NOT output anything else before nor after it.
+تركيا هتتولى بردو حراسة مقاتلي داعش الممسوكين ، وقال البيان إن الدول الأوروبية رفضت ترجعهم.
+Translation:","ستتولى تركيا أيضًا حراسة مقاتلي داعش المحتجزين، وقال البيان إن الدول الأوروبية رفضت إعادتهم."
+"23","Translate from Modern Standard Arabic into Egyptian Arabic. Output only the translation, do NOT output anything else before nor after it.
+هذه هي الغرفة اثنا عشر صفر سبعة .
+Translation:","دي الأوضة اتناشر صفر سبعة."
+"24","""هو إنت سمعت قبل كدة عن الأسبوع الدهبي في اليابان؟"" كمل الحتة دي في شكل قصة.","في يوم من الأيام، كان في شاب اسمه أحمد، مهتم جدًا بالثقافات المختلفة. يوم من الأيام وهو بيقرأ على الإنترنت لقى حاجة اسمها ""الأسبوع الذهبي"" في اليابان. أحمد اتحمس جدًا وقرر إنه يسافر اليابان عشان يعيش التجربة بنفسه.
+
+أحمد بدأ في تجهيز رحلته وحجز تذاكر الطيران والإقامة. لما وصل اليابان، اتفاجئ بالجمال الطبيعي والاحتفالات اللي كانت شغالة في كل مكان. الشوارع كانت مليانة بالناس والأنوار والزينة، وكان فيه فعاليات ثقافية ومهرجانات في كل زاوية.
+
+أحمد شارك في مهرجان تقليدي، ولبس الكيمونو الياباني لأول مرة، وجرب أكلات يابانية زي السوشي والرامن. كان مستمتع جدًا بكل لحظة، وحس إنه اتعلم كتير عن الثقافة اليابانية.
+
+الأسبوع الذهبي كان فرصة حقيقية لأحمد إنه يشوف اليابان بعيون مختلفة، وإنه يكون صداقات جديدة ويعيش لحظات ما تتنسيش. لما رجع مصر، كان مليان ذكريات جميلة، وكان دايمًا يحكي لأصحابه عن تجربته الرائعة في الأسبوع الذهبي."
+"25","Translate from Modern Standard Arabic into Egyptian Arabic. Output only the translation, do NOT output anything else before nor after it.
+ما عرض الأوبرا اليوم ؟
+Translation:","إيه هو عرض الأوبرا النهاردة؟"
+"26","Translate from English into Egyptian Arabic. Output only the translation, do NOT output anything else before nor after it.
+Hamilton confirmed Howard University Hospital admitted the patient in stable condition.
+Translation:","هاميلتون أكد إن مستشفى جامعة هاوارد استقبل المريض في حالة مستقرة."
+"27","عايز رد جذاب تكون الجملة دي فيه هي الأساس: ""من حيث المبدأ ، البوذية التبتية بسيطة جدًا. وهى بتتكون من كونداليني يوجا والتأمل وطريق الحب الشامل.""","من حيث المبدأ، البوذية التبتية بسيطة جدًا، فهي تأخذك في رحلة من كونداليني يوجا والتأمل إلى طريق الحب الشامل، حيث تجد السلام الداخلي والنور الحقيقي."
+"28","Translate from Modern Standard Arabic into Egyptian Arabic. Output only the translation, do NOT output anything else before nor after it.
+أود بعض البيجامات .
+Translation:","عايز شوية بيجامات."
+"29","Translate from Modern Standard Arabic into Egyptian Arabic. Output only the translation, do NOT output anything else before nor after it.
+المزيد من المستردة ، من فضلك .
+Translation:","كمان مستردة، لو سمحت."
+"30","Translate from Egyptian Arabic into Modern Standard Arabic. Output only the translation, do NOT output anything else before nor after it.
+علامة أعلى بتبين أنه يجب أننا نبدأ من الطرف وندفع القوس، في وقت علامة أسفل معناها وجوب البدء من نهاية القوس (حيث أن إيدك تمسك القوس) وتسحبه.
+Translation:","علامة أعلى تشير إلى أنه يجب أن نبدأ من الطرف وندفع القوس، بينما تشير علامة أسفل إلى وجوب البدء من نهاية القوس (حيث تمسك يدك القوس) وتسحبه."
+"31","عيد كتابة الجملة دي عشان تبقى مناسبة لجمهور أوسع: ""إدجار فيجويلا اتصاب بجروحٍ في دراعه وفكه بس كريستوفر شنايدر كان محتاج لجراحة ترميم لوشه.""","إدجار فيجويلا اتعور في دراعه وفكه، لكن كريستوفر شنايدر كان محتاج عملية جراحية لإصلاح وشه."
+"32","Answer in Egyptian Arabic. I'm making a chess mistake explanation teaching software tool, is it corrrect and useful to say all chess mistakes are either allowing something or missing something? How can this be used as a algorithm base structure? ","آه، ده مفهوم صحيح ومفيد لتصنيف الأخطاء في الشطرنج. ممكن تبني عليه الهيكل الأساسي للألجوريزم بتاعك عن طريق تقسيم الأخطاء لنوعين رئيسيين: أخطاء بتيجي من ""السماح بحاجة تحصل"" زي كشف الملك أو خسارة قطعة بدون تعويض، وأخطاء بتيجي من ""تفويت حاجة"" زي عدم استغلال فرصة لتسجيل كش ملك أو تحسين الوضع. بعد كده ممكن توسع كل نوع لفئات فرعية عشان تحدد نوع الخطأ بشكل أدق وتقدم نصائح أو تدريبات مخصوصة لكل نوع. ده هيخلي الأداة بتاعتك أكتر فعالية في تعليم اللاعبين كيفية تجنب الأخطاء وتحسين أدائهم."
+"33","User
+I am an Android developer. When running my ONNX runtime application, the CPU utilisation is ~40% . Answer me in Egyptian Arabic. How can I increase the CPU usage for my app?","عشان تزود استخدام الـ CPU في تطبيقك، ممكن تجرب الحاجات دي: 
+
+1. تأكد إنك مفعّل خيار استخدام خيوط متعددة (multi-threading) في ONNX Runtime، وده عن طريق ضبط عدد الخيوط (threads) اللي ممكن تستخدمها.
+
+2. استخدم إصدار ONNX Runtime اللي بيكون متوافق مع معمارية جهازك وده عشان تاخد أفضل أداء.
+
+3. جرب تستخدم نوع الـ execution providers اللي بيدعم استخدام أفضل للـ CPU، زي استخدام الـ NNAPI لو متاح على الجهاز.
+
+4. تأكد إنك مشغل التطبيق في وضع الأداء العالي للجهاز، وده ممكن يكون عن طريق إعدادات الهاتف أو عن طريق الكود.
+
+5. راجع الكود بتاعك وتأكد من إنك بتستغل كل موارد المعالج بشكل كويس، زي التأكد من إن العمليات الحسابية ماشية بكفاءة.
+
+جرب الحلول دي وشوف إذا كانت بتحسن الأداء والاستخدام للـ CPU ولا لأ."
+"34","Please write a Python function that receives a data frame with columns date and winner and returns the longest number of consecutive win by Alice. Answer in Egyptian Arabic.","```python
+def longest_alice_streak(df):
+    max_streak = 0
+    current_streak = 0
+    for winner in df['winner']:
+        if winner == 'Alice':
+            current_streak += 1
+            max_streak = max(max_streak, current_streak)
+        else:
+            current_streak = 0
+    return max_streak
+```"
+"35","How to write a program in Python to calculate flight path? Explain in Egyptian Arabic.","عشان تكتب برنامج في بايثون لحساب مسار الطيران، هتحتاج تستخدم شوية مكتبات زي `math` لحساب المسافات والاتجاهات و`geopy` مثلا عشان تحسب المسافة بين نقطتين على الأرض باستخدام خطوط الطول والعرض. البرنامج ممكن يكون كالتالي:
+
+```python
+from geopy.distance import geodesic
+
+# حدد نقطة البداية ونقطة النهاية باستخدام خطوط الطول والعرض
+start_point = (30.0444, 31.2357)  # القاهرة
+end_point = (40.7128, -74.0060)  # نيويورك
+
+# احسب المسافة بين النقطتين
+distance = geodesic(start_point, end_point).kilometers
+
+print(f""المسافة بين القاهرة ونيويورك حوالي {distance:.2f} كيلومتر"")
+```
+
+المكتبة `geopy` بتساعدك تحسب المسافات بين نقطتين على الأرض باستخدام خطوط الطول والعرض، وده مفيد لحساب مسارات الطيران. لازم تتأكد إنك تثبت المكتبة باستخدام `pip install geopy` قبل ما تشغل البرنامج."
+"36","Write a python function to calculate the series of exponential function, and explain in Egyptian Arabic.","عشان نحسب السلسلة بتاعة الدالة الأسية في بايثون، ممكن نستخدم دالة اللي بتعمل تقريب للسلسلة اللي هي الـ exponential function. الكود هيكون كالآتي:
+
+```python
+import math
+
+def exponential_series(x, n):
+    result = 0
+    for i in range(n):
+        result += x**i / math.factorial(i)
+    return result
+
+# مثال على استخدام الدالة
+x = 2  # قيمة الأس
+n = 10  # عدد الحدود اللي هنقرب بيها
+print(exponential_series(x, n))
+```
+
+في الكود ده، الدالة `exponential_series` بتاخد قيمتين: `x` اللي هو قيمة الأس اللي عايزين نحسب له الدالة الأسية، و`n` اللي هو عدد الحدود اللي هنقرب بيها. بنبدأ بمجموع `result` بصفر، وبعدين بنضيف لكل حد في السلسلة قيمة `x**i / math.factorial(i)` لحد ما نوصل لعدد الحدود `n`. في الآخر بنرجع النتيجة."
+"37","Translate from Egyptian Arabic into Modern Standard Arabic. Output only the translation, do NOT output anything else before nor after it.
+آه، عايز حاجة اقراها.
+Translation:","نعم، أريد شيئًا أقرأه."
+"38","Translate from Egyptian Arabic into English. Output only the translation, do NOT output anything else before nor after it.
+الوزارة ردت على دعوة تأجيل أبل للتقرير بأنه ""مؤسف حقيقي.""
+Translation:","The ministry responded to Apple's call to postpone the report by saying it was ""a real pity."""
+"39","إيه أشهر المأكولات والوجبات اللي بنحضرها في المناسبات دي؟","في المناسبات في مصر، بنحب نحضر أكلات زي الكشري والمحشي والملوخية والفتة. في الأعياد والمناسبات الكبيرة زي رمضان، بنعمل كمان كنافة وقطايف."
+"40","""عايز فندق أرخص."" رد على الكلام ده.","""ممكن تشوف فنادق في المناطق اللي بعيد شوية عن وسط البلد، غالبًا بتكون أرخص، أو جرّب تدور على عروض خاصة على المواقع الإلكترونية."""
+"41","Translate from English into Egyptian Arabic. Output only the translation, do NOT output anything else before nor after it.
+I've missed my stop.
+Translation:","فاتتني المحطة."
+"42","بنعمل إيه مع الأطفال في المناسبات؟","في المناسبات، بنحاول نعمل للأطفال أنشطة ممتعة زي الألعاب الجماعية، الرسم والتلوين، أو حتى نجيب لهم حد يعمل لهم فقرة سحر أو مهرج. ممكن كمان نعمل حفلة صغيرة فيها أكل وحلويات يحبّوها، ونخلّيهم يشاركوا في تحضير بعض الحاجات البسيطة عشان يحسّوا إنهم جزء من الاحتفال. الأهم إننا نخليهم يستمتعوا ويكون عندهم ذكريات حلوة."
+"43","Translate from Modern Standard Arabic into Egyptian Arabic. Output only the translation, do NOT output anything else before nor after it.
+مهما كانت سهولة الانقياد التي تبدو عليهم، فإن البيسون، الأيائل، الموظ، والدببة، وكل الحيوانات الكبيرة تقريباً قد تهاجم.
+Translation:","مهما كانت سهولة الانقياد اللي باين عليهم، فإن البيسون، الأيائل، الموظ، والدببة، وكل الحيوانات الكبيرة تقريباً ممكن تهاجم."
+"44","Translate from English into Egyptian Arabic. Output only the translation, do NOT output anything else before nor after it.
+According to the latest bulletin, sea level readings indicated a tsunami was generated. There was some definite tsunami activity recorded near Pago Pago and Niue.
+Translation:","حسب النشرة الأخيرة، قراءات مستوى البحر أشارت إلى إنه اتكون تسونامي. كان فيه نشاط تسونامي مؤكد مُسجل بالقرب من باجو باجو ونييوي."
+"45","Translate from English into Egyptian Arabic. Output only the translation, do NOT output anything else before nor after it.
+I'm looking for something dressy.
+Translation:","بدور على حاجة شيك."
+"46","Translate from Modern Standard Arabic into Egyptian Arabic. Output only the translation, do NOT output anything else before nor after it.
+ماذا سيعرض في قاعة الحفلات الموسيقية اليوم ؟
+Translation:","إيه اللي هيتعرض في قاعة الحفلات النهاردة؟"
+"47","المثل اللي بيقول"" يا خبر النهاردة بفلوس بكرة يبقي ببلاش"" يعني ايه","المثل ده معناه إن الخبر اللي بيكون مهم أو كبير النهاردة وممكن الناس تدفع فلوس عشان تعرفه، مع مرور الوقت بيبقى عادي ومعروف بين الناس ومحدش هيضطر يدفع عشان يعرفه. بمعنى تاني، الحاجات اللي بتكون سر أو غالية النهاردة، بكرة بتبقى شائعة ومجانية."
+"48","أشهر المحافظات السياحية في مصر هي إيه؟","الأقصر، أسوان، القاهرة، الجيزة، الإسكندرية، وشرم الشيخ."
+"49","يعني إيه "" قعدة الحزانة ولا جوازة الندامة""","المثل ده معناه إن الواحد يفضل يعيش لوحده أحسن ما يتجوز جوازة ممكن تسبب له ندم ومشاكل في المستقبل. الفكرة إن الوحدة أهون من التورط في علاقة غير سعيدة أو مؤذية."
