@@ -9,7 +9,7 @@ Please check <a href="https://sites.google.com/view/vardial-2026/shared-tasks">h
 <a href="https://huggingface.co/Qwen/Qwen2.5-7B-Instruct">Qwen </a> models 
 fine-tuned using LoRA implementations in LllamaFactory 
 using the data shared in the competition (processing described in <i>Dataset description(Sheet1).csv</i> and <i>notes_translation_data.pdf</i>)
-are available at 
+are available at <br>
 https://huggingface.co/mood157/dialect_translator_clean_qwen2.5_7B_instruct <br>
 and 
 https://huggingface.co/mood157/dialect_translator_clean_llama_3.1_8B_instruct
