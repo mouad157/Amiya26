@@ -1,0 +1,32 @@
+Dataset,Dialect,MSA,DIALECT,ENG,Notes,GOLD,Silver/Augmented
+MASC-Main,Egyptian,FALSE,TRUE,FALSE,,,
+MASC-Political,Egyptian,FALSE,TRUE,FALSE,,,
+Casablanca,Egyptian,FALSE,TRUE,FALSE,,,
+EDC,Egyptian,FALSE,TRUE,FALSE,,,
+EDGAD,Egyptian,FALSE,TRUE,FALSE,,,
+ASR-EgArbCSC,Egyptian,FALSE,TRUE,FALSE,,,
+MADAR25,Egyptian,TRUE,TRUE,TRUE,"We took Cairo as reference, note that the quality of the english translation is questionable",1- only MSA to Dialect,1
+Casablanca,Moroccan,FALSE,TRUE,FALSE,,,
+DoDa,Moroccan,FALSE,TRUE,TRUE,,1,1
+Goud,Moroccan,FALSE,TRUE,FALSE,,,
+Atlaset,Moroccan,FALSE,TRUE,FALSE,,,
+MADAR25,Moroccan,TRUE,TRUE,TRUE,"We took Rabat as reference, note that the qualityof the english translation is questionable",,1
+Casablanca,Palestinian,FALSE,TRUE,FALSE,,,
+Maknuune,Palestinian,TRUE,TRUE,TRUE,,1,1
+MADAR25,Palestinian,TRUE,TRUE,TRUE,We took Jerusalem as reference note that the quality of the english translation is questionable.,,1
+Shami,Palestinian,FALSE,TRUE,FALSE,,,
+MASC-Main,Saudi,FALSE,TRUE,FALSE,,,
+SDC,Saudi,FALSE,TRUE,FALSE,,,
+SauDial,Saudi,TRUE,TRUE,TRUE,,1,1
+SadLyC,Saudi,FALSE,TRUE,FALSE,,,
+MADAR25,Saudi,TRUE,TRUE,TRUE,,,1
+Saudi Tweet Corpus,Saudi,FALSE,TRUE,FALSE,,,
+MADAR25,Saudi,TRUE,TRUE,TRUE,"We took Riyadh as reference,  note that the quality of the english translation is questionable.",,1
+Shami,Syrian,FALSE,TRUE,FALSE,,,
+UFAL,Syrian,TRUE,TRUE,TRUE,,1,1
+MADAR25,Syrian,TRUE,TRUE,TRUE,"We took Damascus as reference,  note that the quality of the english translation is questionable.",,1
+MASC-Main,Jordanian,FALSE,TRUE,FALSE,,,
+Casablanca,Jordanian,FALSE,TRUE,FALSE,,,
+JODA,Jordanian,TRUE,TRUE,FALSE,,,
+Shami,Jordanian,FALSE,TRUE,FALSE,,,
+MADAR25,Jordanian,TRUE,TRUE,TRUE,,,
