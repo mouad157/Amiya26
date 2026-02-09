@@ -19,10 +19,10 @@ Our "primary" model that does best on dialectness scores (after RL training on p
 is available at 
 https://huggingface.co/gsdas/amiya_llama3.1_dpo
 
-The "tentative_gold" data we used in evaluation for the systems paper (Table 2).
-About 50 prompts (from AL-QASIDA) per dialect were selected to prompt the GPT-4o model. The output is considered "gold" if our classifier
-detects it is in the correct dialect, if not, we apply translation to convert the output to the required dialect and once again test it using our classifier.
+The files in "tentative_gold" directory were used for evaluation in our systems paper (Table 2). 
+Please refer to Section 3 for a description on how RL data was created. We 
+set aside about 50 prompts per dialect during this process for evaluation. That is, we used the prompt with the GPT-4o model and consider the output "gold" if our classifier
+predicts the expected/correct dialect for this output, if not, we apply translation (using GPT) to convert the output to the required dialect and once again test it using our classifier.
 
 Our dialect classifier (adapter for Llama) is available at https://huggingface.co/gsdas/amiya_dialect_predictor
-
 We also shared the preference data used for training our RL models (rl_pairs.json) and a sample subset of data from the competition that can be used to test our dialect prediction model.
