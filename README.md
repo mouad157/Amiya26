@@ -1,5 +1,7 @@
 # Amiya26
-This repository lists few of our resources compiled for the VarDial/AMIYA 2026 Shared task in EACL26.
+This repository is shared under <a  href="LICENSE">Academic Free License (AFL) v. 3.0</a>
+and lists the resources compiled by us for the VarDial/AMIYA 2026 Shared task in EACL26.
+
 
 Please check <a href="https://sites.google.com/view/vardial-2026/shared-tasks">here</a> for more information.
 
@@ -22,3 +24,5 @@ About 50 prompts (from AL-QASIDA) per dialect were selected to prompt the GPT-4o
 detects it is in the correct dialect, if not, we apply translation to convert the output to the required dialect and once again test it using our classifier.
 
 Our dialect classifier (adapter for Llama) is available at https://huggingface.co/gsdas/amiya_dialect_predictor
+
+We also shared the preference data used for training our RL models (rl_pairs.json) and a sample subset of data from the competition that can be used to test our dialect prediction model.
